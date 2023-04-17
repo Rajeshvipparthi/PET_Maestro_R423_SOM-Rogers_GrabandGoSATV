@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_07_Installation"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="be513a04-1a59-46b1-a2bd-bc4d8681cd98" weightsEnabled="false">
+    <weighted-embedded-action uid="32c527b5-febc-41c5-9368-da95040810eb"/>
+    <weighted-embedded-action uid="c9ed9f85-db7e-43b5-a258-479b50b81479"/>
+    <weighted-embedded-action uid="916e4a8a-2c8a-4fd4-8fd5-769f6bcb5a37"/>
+    <weighted-embedded-action uid="1cc30927-ef30-476f-a29c-a6c75a4be480"/>
+</basic-logical-action-container>

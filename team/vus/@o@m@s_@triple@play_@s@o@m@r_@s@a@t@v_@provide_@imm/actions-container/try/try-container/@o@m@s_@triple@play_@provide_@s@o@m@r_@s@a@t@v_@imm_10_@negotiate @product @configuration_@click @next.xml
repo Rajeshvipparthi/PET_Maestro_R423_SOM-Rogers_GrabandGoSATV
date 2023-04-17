@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_SOMR_SATV_Imm_10_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ae39f1fd-53cd-4dd0-8961-d2fab4030492" weightsEnabled="false">
+    <weighted-embedded-action uid="52b3d8a1-7890-4dc8-a94c-d10aca4c1c0f"/>
+    <weighted-embedded-action uid="e01b0250-341c-4757-9468-f10e50284f8a"/>
+    <weighted-embedded-action uid="3149a3eb-aa04-4818-9f43-8bffab32166d"/>
+</basic-logical-action-container>

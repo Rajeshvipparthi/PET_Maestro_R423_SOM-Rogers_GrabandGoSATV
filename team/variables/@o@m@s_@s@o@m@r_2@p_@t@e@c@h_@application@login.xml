@@ -1,0 +1,3 @@
+<variable-file delimiters=";" filename="OMS_SOMR_Application_Login.txt" name="OMS_SOMR_2P_TECH_ApplicationLogin" offset="1" order="3" policy="4" range="1" uid="0ff5ae83-9477-4e7f-84c2-ec895431c9fe" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="AppLogin" number="0"/>
+</variable-file>

@@ -1,0 +1,24 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMSAllocatePhoneNumber" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5c924781-bbf8-4bb6-b649-ea010f2a4e2d" weightsEnabled="false">
+    <weighted-embedded-action uid="791328f7-d66b-4d9c-8a42-09e6fbddef91"/>
+    <weighted-embedded-action uid="b7b420c8-c2d4-421c-aa50-7d0d2928423a"/>
+    <weighted-embedded-action uid="c4a33dbc-28f4-4a75-a5e8-4b128611aec0"/>
+    <weighted-embedded-action uid="cbab0f96-89f8-4081-b0fe-ff661a3c8eab"/>
+    <weighted-embedded-action uid="1e2377fe-bc42-4ac4-bfc5-b3b2eee73c29"/>
+    <weighted-embedded-action uid="83905f33-ecfb-41a7-9dcb-35bc97686f5c"/>
+    <weighted-embedded-action uid="9441d64c-4e10-4fee-b019-ac1471b0ac9f"/>
+    <weighted-embedded-action uid="b5cbe5e9-765c-46a0-bd3b-1e45554e7d08"/>
+    <weighted-embedded-action uid="0eccc0b0-9066-4252-bca2-86e5ee08a5b0"/>
+    <weighted-embedded-action uid="a1d5b81b-ffd4-4a8d-8db1-e3c24cda77ce"/>
+    <weighted-embedded-action uid="16406983-219c-4dfb-bdba-3fc6ea6f4652"/>
+    <weighted-embedded-action uid="08131210-77ee-4668-8bf3-8747a6b71f02"/>
+    <weighted-embedded-action uid="b4baba25-5bb1-41d5-85cc-51e8a45d1800"/>
+    <weighted-embedded-action uid="195d1ff7-4188-43e9-930c-942cd9b9c569"/>
+    <weighted-embedded-action uid="223d16c4-d3bc-4234-a827-665051acfdea"/>
+    <weighted-embedded-action uid="9384043b-b8c7-4d7f-8e90-ca167e7c2e47"/>
+    <weighted-embedded-action uid="33dd11e3-3fc7-48e8-b49a-ef3525dd826b"/>
+    <weighted-embedded-action uid="06ec9330-ed98-47c8-9bf8-ee73af33738f"/>
+    <weighted-embedded-action uid="53bae4ea-f785-42e2-86cf-8fd499f91d01"/>
+</basic-logical-action-container>

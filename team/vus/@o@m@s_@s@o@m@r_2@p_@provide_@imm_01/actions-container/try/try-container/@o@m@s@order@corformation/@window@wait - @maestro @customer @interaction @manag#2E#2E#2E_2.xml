@@ -1,0 +1,16 @@
+<custom-action actionType="CitrixWindowWait" enabled="false"
+    isHit="true"
+    name="WindowWait - Maestro Customer Interaction Manag..._2" uid="e179e880-2fc1-4f1b-b9d8-943473a6ed03">
+    <description>This Action waits for an event (CREATED, ACTIVATED, DESTROYED) for a window with a title (that can be a regexp) and optionally in a certain region of the screen.
+
+Possible parameters are:&#xd;
+- windowName (required): Window name, that can be a regular expression. It can contain a NeoLoad variable. If a regular expression is used, then any characters considered as reserved need to be escaped according to the regex syntax standard (for example characters \|?*+()[].). For example, "Document.*" will match any window name starting with string "Document", and "Document \(\d+\)" will match any window name with "Document" followed by a number in parenthesis, such as "Document (1)" or "Document (10)". &#xd;
+- windowEvent (required): Event to wait: CREATED, ACTIVATED, DESTROYED. Default value is "ACTIVATED".&#xd;
+- windowRect (optional): Region of the window in the format: [poxX,poxY,width,height].&#xd;
+- waitTimeoutInMs (required): Maximum timeout in milliseconds to wait for receiving the right windowEvent, if 0 it will wait infinitely. Default value is "60000".</description>
+    <custom-action-parameter name="windowName" type="TEXT" value="Order Summary"/>
+    <custom-action-parameter name="windowEvent" type="TEXT" value="ACTIVATED"/>
+    <custom-action-parameter name="waitTimeoutInMs" type="TEXT" value="${citrixWaitTimeoutInMs-UserPath}"/>
+    <responsePageFileDescription>recorded-responses/res_04c988d9-5f3f-4ad7-90bb-107e86b6e2fe</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@imm_01/%resources%/recorded-screenshots/sc_04c988d9-5f3f-4ad7-90bb-107e86b6e2fe.0.0.png</screenshotFileDescription>
+</custom-action>

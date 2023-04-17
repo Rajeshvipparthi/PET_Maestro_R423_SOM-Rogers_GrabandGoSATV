@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_13_Submit Order_01"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="99a9bedd-aa86-4457-9954-a44a8217e047" weightsEnabled="false">
+    <weighted-embedded-action uid="57253c3f-e4fa-48e1-a8a4-f61ead65139a"/>
+    <weighted-embedded-action uid="4c24a586-c486-4fa1-9b81-cd3b643d9089"/>
+    <weighted-embedded-action uid="fd30e687-7c92-4761-a1f0-31d1eac6a1e9"/>
+</basic-logical-action-container>

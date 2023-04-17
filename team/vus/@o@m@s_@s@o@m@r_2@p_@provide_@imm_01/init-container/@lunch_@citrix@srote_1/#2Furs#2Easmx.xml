@@ -1,0 +1,79 @@
+<http-page executeResourcesDynamically="false" name="/urs.asmx"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@imm_01/%resources%/recorded-artifacts/9a308e33-7395-4e01-89b3-b6e5c910d810.zip"
+    slaProfileEnabled="false" thinkTime="3969"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9a308e33-7395-4e01-89b3-b6e5c910d810">
+    <embedded-action>73cf7924-1ab7-4a19-b2a1-d386f827694e</embedded-action>
+    <embedded-action>a634e067-bf33-43dc-9201-29d3ed072d88</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/urs.asmx" path="/urs.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@imm_01/%resources%/recorded-artifacts/9a308e33-7395-4e01-89b3-b6e5c910d810.zip"
+    recordedResponseCode="200" responseSize="362"
+    serverUid="imported_imported_imported_urs.microsoft.com_152"
+    slaProfileEnabled="false" uid="73cf7924-1ab7-4a19-b2a1-d386f827694e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_42cc3028-947c-4d9f-b7ed-e194a7c4c638.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_42cc3028-947c-4d9f-b7ed-e194a7c4c638.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MSURS-Client-Key"
+        recordRawValue="gYOHSb6B0xKT%2bjZF/vVLtA%3d%3d" separator="="
+        value="gYOHSb6B0xKT%2bjZF/vVLtA%3d%3d" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-MAC" recordRawValue="MkTfoe7qGDA%3d" separator="="
+        value="MkTfoe7qGDA=" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="urs.microsoft.com"/>
+    <header name="User-Agent" value="VCSoapClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 362&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Fri, 03 Mar 2023 11:13:37 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>EAFE3767-CEC7-7E8C-046A-7EF825A3CC85</O><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.17763.0.0</OS><I>9.11.17763.0</I><L>en-US</L><RU></RU><RI>0000:0000:0000:0000:0000:0000:0000:0001</RI><R><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</URL><O>POST</O><T>TOP</T><HIP>142.146.202.52</HIP></Rq></R><WA/><PRT>297</PRT></RepLookup>]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/urs.asmx" path="/urs.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@imm_01/%resources%/recorded-artifacts/9a308e33-7395-4e01-89b3-b6e5c910d810.zip"
+    recordedResponseCode="200" responseSize="362"
+    serverUid="imported_imported_imported_urs.microsoft.com_152"
+    slaProfileEnabled="false" uid="a634e067-bf33-43dc-9201-29d3ed072d88" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_891ec771-a6b7-4660-8be4-2203b725b307.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_891ec771-a6b7-4660-8be4-2203b725b307.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MSURS-Client-Key"
+        recordRawValue="1aiHHsYRoV0HI%2b3YFv1/UQ%3d%3d" separator="="
+        value="1aiHHsYRoV0HI%2b3YFv1/UQ%3d%3d" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-MAC" recordRawValue="WI4RNajZIs8%3d" separator="="
+        value="WI4RNajZIs8=" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="urs.microsoft.com"/>
+    <header name="User-Agent" value="VCSoapClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 362&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Fri, 03 Mar 2023 11:13:37 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>EAFE3767-CEC7-7E8C-046A-7EF825A3CC85</O><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.17763.0.0</OS><I>9.11.17763.0</I><L>en-US</L><RU>aHR0cDovL3d3dy5uZW90eXMuY29tL3JlZGlyZWN0L3JlZGlyZWN0LnBocD90YXJnZXQ9cmVjb3JkZXImbG5nPWVuJnBvcnQ9ODA5MA==</RU><RI>0.0.0.0</RI><R><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</URL><O>PRE</O><T>TOP</T><HIP>0000:0000:0000:0000:0000:0000:0000:0001</HIP></Rq></R><WA/><PRT>297</PRT></RepLookup>]]></textPostContent>
+</http-action>

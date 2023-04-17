@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_SOMR_SATV_Tripleplay_Tech_OrderCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="bc2c53bf-50e7-4a80-94be-4132353a9d64" whenOutOfValues="CYCLE_VALUES"/>

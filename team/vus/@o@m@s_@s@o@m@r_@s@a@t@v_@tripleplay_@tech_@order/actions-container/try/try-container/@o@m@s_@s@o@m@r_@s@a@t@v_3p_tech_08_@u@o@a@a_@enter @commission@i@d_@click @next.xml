@@ -1,0 +1,17 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_08_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="19ce6705-2717-486c-8175-c432e1b1eb56" weightsEnabled="false">
+    <weighted-embedded-action uid="fa95c6de-8bcf-4cc8-93f2-dbf2999ddbdd"/>
+    <weighted-embedded-action uid="b4a6a5a2-e703-429a-96c4-ff434a7daa6a"/>
+    <weighted-embedded-action uid="88f6139e-2efa-4a66-9d21-b43e1203a00d"/>
+    <weighted-embedded-action uid="ee31f824-9478-4830-9954-670e763db7b2"/>
+    <weighted-embedded-action uid="beaca5b1-0915-4a80-971b-1b1884b46adc"/>
+    <weighted-embedded-action uid="9e55e846-707d-4573-8c88-e8de130e254a"/>
+    <weighted-embedded-action uid="ce3317c5-24f1-403a-bd2d-cdff2ed81312"/>
+    <weighted-embedded-action uid="f8954fdc-e19e-45ae-b2d4-77ae2935e749"/>
+    <weighted-embedded-action uid="2652bdd0-49bb-45e4-911a-9b48c666f289"/>
+    <weighted-embedded-action uid="870d077d-f119-4c3c-9e81-441fbc72dc1b"/>
+    <weighted-embedded-action uid="bb23ccd2-86a3-48be-9679-b7d4ab85a847"/>
+</basic-logical-action-container>

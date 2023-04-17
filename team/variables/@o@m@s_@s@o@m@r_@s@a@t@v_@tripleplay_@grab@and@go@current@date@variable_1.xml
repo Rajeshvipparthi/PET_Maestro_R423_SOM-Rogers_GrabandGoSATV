@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="-1" inc-value="0" name="OMS_SOMR_SATV_Tripleplay_GrabAndGoCurrentDateVariable_1" order="1" pattern="dd. MMMM yyyy HH:mm:ss.S z" policy="1" range="2" uid="2bee87ba-0969-4454-86d4-ab76ed1ec8c8" whenOutOfValues="CYCLE_VALUES"/>

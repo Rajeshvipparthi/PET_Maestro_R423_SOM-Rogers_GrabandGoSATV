@@ -1,0 +1,3 @@
+<delay-action duration="1000" enabled="false" isThinkTime="false"
+    name="ThinkTime_287" timeMode="MODE_SIMPLE_THINK_TIME"
+    timeRangeEnd="" timeRangeStart="" uid="95842127-08e4-480f-b25b-f9b0cb4b6bb8"/>

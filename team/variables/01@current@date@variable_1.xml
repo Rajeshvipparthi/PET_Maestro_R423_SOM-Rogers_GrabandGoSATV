@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="-1" inc-value="0" name="01CurrentDateVariable_1" order="1" pattern="dd. MMMM yyyy HH:mm:ss.S z" policy="1" range="2" uid="bd9c24f7-0b84-4d8d-b6e4-15e0495f9324" whenOutOfValues="CYCLE_VALUES"/>

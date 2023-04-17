@@ -1,0 +1,3 @@
+<variable-file delimiters="," filename="OMS_FWA_DIY_Imm_Order_FAIDs.0.txt" name="OMS_3p_SOMR_SATV_Imm_Order_FAIDS" offset="30" order="1" policy="5" range="4" uid="cda31bd3-3748-4f02-abac-1eab2593ae60" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="FAIDs" number="0"/>
+</variable-file>

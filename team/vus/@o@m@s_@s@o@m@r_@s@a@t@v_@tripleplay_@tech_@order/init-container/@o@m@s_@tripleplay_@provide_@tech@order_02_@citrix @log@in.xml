@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_02_Citrix LogIn"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="b12cf995-68f0-4358-9814-1f4e897ab1cd" weightsEnabled="false">
+    <weighted-embedded-action uid="49c1c43b-f5a2-4e7b-a69d-f0e921c9e286"/>
+    <weighted-embedded-action uid="3be08459-3929-40db-8998-f22e627712c5"/>
+    <weighted-embedded-action uid="f2850577-54e6-43d0-9dc3-cdbd9a5017e0"/>
+    <weighted-embedded-action uid="90acb55c-f11e-43f3-8ae9-346b30fd6bfb"/>
+    <weighted-embedded-action uid="435648ed-b215-4f68-bece-f024ab787986"/>
+</basic-logical-action-container>

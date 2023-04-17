@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Imm_09_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="67e3b330-640d-476e-9316-ef99ce66e366" weightsEnabled="false">
+    <weighted-embedded-action uid="eb9b8af5-6185-4a43-af56-da825e63ab9f"/>
+    <weighted-embedded-action uid="4e004b82-ce54-4ba2-9a3c-980eaa05f53e"/>
+    <weighted-embedded-action uid="91e6626b-dd85-4187-9b76-2871cb92663d"/>
+</basic-logical-action-container>

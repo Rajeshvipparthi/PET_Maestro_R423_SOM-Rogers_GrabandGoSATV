@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0"
+    name="OMS_FWA_DIY_Provide_Imm_03_LuanchApplication" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5e778bfa-9d1a-464c-9f2e-f29e774c30f6" weightsEnabled="false">
+    <weighted-embedded-action uid="45367b9c-2ff7-45dd-b7cc-15d293df0865"/>
+    <weighted-embedded-action uid="28adb564-218c-4bda-9756-8ca41dae4af3"/>
+    <weighted-embedded-action uid="0e415105-5f4b-446c-8372-3d5d76e9d0fe"/>
+    <weighted-embedded-action uid="5b2959e4-17ac-4677-a3ca-31541349d665"/>
+    <weighted-embedded-action uid="e93edca9-108f-4ff7-9f77-0d9a243317b4"/>
+    <weighted-embedded-action uid="f9f2125c-2328-4729-87b7-c6f1f1058b82"/>
+</basic-logical-action-container>

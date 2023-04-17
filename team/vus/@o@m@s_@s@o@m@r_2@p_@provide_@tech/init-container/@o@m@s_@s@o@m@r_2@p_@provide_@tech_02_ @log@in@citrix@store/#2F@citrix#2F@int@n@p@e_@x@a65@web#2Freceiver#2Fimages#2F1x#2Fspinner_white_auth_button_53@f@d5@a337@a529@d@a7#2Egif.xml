@@ -1,0 +1,573 @@
+<http-page executeResourcesDynamically="false"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/spinner_white_auth_button_53FD5A337A529DA7.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    slaProfileEnabled="false" thinkTime="70183"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8ce8420e-470b-43f8-95cd-2f5a4665e073">
+    <embedded-action>f1533a67-4d39-4903-a47e-061241240f82</embedded-action>
+    <embedded-action>d6a2621e-00b1-42af-91c2-bcc9f23fc9fa</embedded-action>
+    <embedded-action>7abbf931-a7de-4d16-8e3a-72bdbaebeca8</embedded-action>
+    <embedded-action>c46825af-1e36-4a49-aa69-b1f573d2455c</embedded-action>
+    <embedded-action>d69de406-36fd-4cb1-97ac-cdc027c3c110</embedded-action>
+    <embedded-action>213faa4a-cd91-4aa6-ab11-1fb0baa08f82</embedded-action>
+    <embedded-action>a6f9d129-ef9c-4422-b89b-2316e07ac2f7</embedded-action>
+    <embedded-action>9ffc89dc-7321-42e0-86c5-13701cde16ef</embedded-action>
+    <embedded-action>aa36a853-4efa-40f8-92a6-6f6a01f19b18</embedded-action>
+    <embedded-action>81363f2c-b03e-4475-9b7d-a21603f90f91</embedded-action>
+    <embedded-action>fc29d8d5-bb55-4654-ac07-a0fb19551008</embedded-action>
+    <embedded-action>5fd5740b-7d53-4d71-b949-65cc4bd627dc</embedded-action>
+    <embedded-action>3fcf4275-9f2f-4427-9ea7-4aa3661af560</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;6b769ffef08bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/spinner_white_auth_button_53FD5A337A529DA7.gif"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/1x/spinner_white_auth_button_53FD5A337A529DA7.gif"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="f1533a67-4d39-4903-a47e-061241240f82" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0848e3a5-70c4-4084-8990-0c64d55accda.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0848e3a5-70c4-4084-8990-0c64d55accda.0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/gif&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "6b769ffef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:01 GMT&#xd;
+Content-Length: 2070</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/Citrix/IntNPE_XA65Web/ExplicitAuth/LoginAttempt"
+    path="/Citrix/IntNPE_XA65Web/ExplicitAuth/LoginAttempt"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="282"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="d6a2621e-00b1-42af-91c2-bcc9f23fc9fa" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[dXNlcm5hbWU9cmNpJTVDcnNvb3Bfa2M2JnBhc3N3b3JkPSR7QXV0b1Bhc3N3b3JkXzF9JnNhdmVDcmVkZW50aWFscz1mYWxzZSZsb2dpbkJ0bj1Mb2crT24mU3RhdGVDb250ZXh0PQ==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_ad9816ad-3b0f-4f0a-a010-77603c061b5d.0.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ad9816ad-3b0f-4f0a-a010-77603c061b5d.0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="username"
+        recordRawValue="rci%5Crsoop_kc6" separator="="
+        value="${OMS_SOMR_2P_TECH_CitrixLogin.CitrixLogin}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="password"
+        recordRawValue="${AutoPassword_1}" separator="="
+        value="Robo7cop?$#1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="saveCredentials" recordRawValue="false" separator="="
+        value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="loginBtn"
+        recordRawValue="Log+On" separator="=" value="Log On" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="StateContext"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/xml, text/xml, */*; q=0.01"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="Csrf-Token" value="${CsrfToken}"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="X-Citrix-AM-CredentialTypes" value="none, username, domain, password, newpassword, passcode, savecredentials, textcredential, webview, webview"/>
+    <header name="X-Citrix-AM-LabelTypes" value="none, plain, heading, information, warning, error, confirmation, image"/>
+    <header name="X-Citrix-IsUsingHTTPS" value="Yes"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Content-Type: application/xml; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+Set-Cookie: CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; path=/Citrix/IntNPE_XA65Web/; secure; HttpOnly&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:01 GMT&#xd;
+Content-Length: 212</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Citrix/IntNPE_XA65Web/Resources/List"
+    path="/Citrix/IntNPE_XA65Web/Resources/List" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="33541"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="7abbf931-a7de-4d16-8e3a-72bdbaebeca8" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[Zm9ybWF0PWpzb24mcmVzb3VyY2VEZXRhaWxzPURlZmF1bHQ=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_72fe5f76-c02a-4484-abb2-cb886faafc9c.0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_72fe5f76-c02a-4484-abb2-cb886faafc9c.0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="format"
+        recordRawValue="json" separator="=" value="json" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="resourceDetails" recordRawValue="Default" separator="="
+        value="Default" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/javascript, */*; q=0.01"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="Csrf-Token" value="${CsrfToken}"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="X-Citrix-IsUsingHTTPS" value="Yes"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Content-Type: application/json&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 2170</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;5e0aefef08bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/common/icon_loading_9A0623127A028FEB.png"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/common/icon_loading_9A0623127A028FEB.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="c46825af-1e36-4a49-aa69-b1f573d2455c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_31656e26-d0df-4a5e-ab2c-3648bc2f0d76.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_31656e26-d0df-4a5e-ab2c-3648bc2f0d76.0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "5e0aefef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 244</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/Citrix/IntNPE_XA65Web/Authentication/GetUserName"
+    path="/Citrix/IntNPE_XA65Web/Authentication/GetUserName"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="d69de406-36fd-4cb1-97ac-cdc027c3c110" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5cc68867-fedf-4293-a5b7-5c3d834a8e03</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5cc68867-fedf-4293-a5b7-5c3d834a8e03.0.txt</requestContentFileDescription>
+    <header name="Accept" value="text/plain, */*; q=0.01"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="Csrf-Token" value="${CsrfToken}"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="X-Citrix-IsUsingHTTPS" value="Yes"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Content-Type: text; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 52</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 04 Apr 2023 13:36:04 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/Resources/Icon/L0NpdHJpeC9JbnROUEVfWEE2NS9yZXNvdXJjZXMvdjIvVmt0Mk0zbEphaTlJZEVvelFucE9LMXBQV0hWdE4wNUxVRTVyUFEtLS9pbWFnZQ--"
+    path="/Citrix/IntNPE_XA65Web/Resources/Icon/L0NpdHJpeC9JbnROUEVfWEE2NS9yZXNvdXJjZXMvdjIvVmt0Mk0zbEphaTlJZEVvelFucE9LMXBQV0hWdE4wNUxVRTVyUFEtLS9pbWFnZQ--"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="213faa4a-cd91-4aa6-ab11-1fb0baa08f82" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c4f1e39c-71fa-467f-9390-a3237a7bb5f6.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c4f1e39c-71fa-467f-9390-a3237a7bb5f6.0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="size"
+        recordRawValue="128" separator="=" value="128" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private, max-age=31536000, s-maxage=0&#xd;
+Content-Type: image/png&#xd;
+Expires: Fri, 23 Jun 2023 18:01:03 GMT&#xd;
+Last-Modified: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 20398</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 04 Apr 2023 13:36:04 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/Resources/Icon/L0NpdHJpeC9JbnROUEVfWEE2NS9yZXNvdXJjZXMvdjIvZEhreVoweHJWQzlGUjFSV1FuQjRNRmsxUkZjdlMwdGhPV1puUFEtLS9pbWFnZQ--"
+    path="/Citrix/IntNPE_XA65Web/Resources/Icon/L0NpdHJpeC9JbnROUEVfWEE2NS9yZXNvdXJjZXMvdjIvZEhreVoweHJWQzlGUjFSV1FuQjRNRmsxUkZjdlMwdGhPV1puUFEtLS9pbWFnZQ--"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="a6f9d129-ef9c-4422-b89b-2316e07ac2f7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8c6c0ded-3c89-4e37-a1c9-f142382c836e.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8c6c0ded-3c89-4e37-a1c9-f142382c836e.0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="size"
+        recordRawValue="128" separator="=" value="128" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private, max-age=31536000, s-maxage=0&#xd;
+Content-Type: image/png&#xd;
+Expires: Fri, 23 Jun 2023 18:01:03 GMT&#xd;
+Last-Modified: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 25836</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 04 Apr 2023 13:36:04 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/Resources/Icon/L0NpdHJpeC9JbnROUEVfWEE2NS9yZXNvdXJjZXMvdjIvTTNkT01VZE5Sa1YwVDBkMGEwTnJZVEkzY2xoMGJrTjJRMWRTVDFsU2RUaFdTVlZCVFdaU1ZsUmlkejAtL2ltYWdl"
+    path="/Citrix/IntNPE_XA65Web/Resources/Icon/L0NpdHJpeC9JbnROUEVfWEE2NS9yZXNvdXJjZXMvdjIvTTNkT01VZE5Sa1YwVDBkMGEwTnJZVEkzY2xoMGJrTjJRMWRTVDFsU2RUaFdTVlZCVFdaU1ZsUmlkejAtL2ltYWdl"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="9ffc89dc-7321-42e0-86c5-13701cde16ef" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_34c21827-053c-48f7-9a4d-0aa106379aea.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_34c21827-053c-48f7-9a4d-0aa106379aea.0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="size"
+        recordRawValue="128" separator="=" value="128" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private, max-age=31536000, s-maxage=0&#xd;
+Content-Type: image/png&#xd;
+Expires: Fri, 23 Jun 2023 18:01:03 GMT&#xd;
+Last-Modified: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 8212</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;78399fef08bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/CitrixReceiverLogo_Home_5C24BCEC5A182425.png"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/1x/CitrixReceiverLogo_Home_5C24BCEC5A182425.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="aa36a853-4efa-40f8-92a6-6f6a01f19b18" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_999b95b1-e9b3-4311-acac-91e8ddcbd499.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_999b95b1-e9b3-4311-acac-91e8ddcbd499.0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "78399fef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 4076</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;47289ffef08bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/spinner_5CF0D1C8A76AAC8E.png"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/1x/spinner_5CF0D1C8A76AAC8E.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="81363f2c-b03e-4475-9b7d-a21603f90f91" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e32d6f01-7438-4a31-a623-2332c4ec4785.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e32d6f01-7438-4a31-a623-2332c4ec4785.0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "47289ffef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 2029</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;21b39efef08bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/search_close_BC5A22358E58905F.png"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/1x/search_close_BC5A22358E58905F.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="fc29d8d5-bb55-4654-ac07-a0fb19551008" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f2bf847b-c013-486f-aa0a-6b516d0355b5.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f2bf847b-c013-486f-aa0a-6b516d0355b5.0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "21b39efef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 454</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;c0ef9dfef08bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/ico_search_E84E3D63D821F80D.png"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/1x/ico_search_E84E3D63D821F80D.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="5fd5740b-7d53-4d71-b949-65cc4bd627dc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1e95121f-3250-41df-8ce7-4968efdea162.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1e95121f-3250-41df-8ce7-4968efdea162.0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "c0ef9dfef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 568</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/Citrix/IntNPE_XA65Web/ExplicitAuth/AllowSelfServiceAccountManagement"
+    path="/Citrix/IntNPE_XA65Web/ExplicitAuth/AllowSelfServiceAccountManagement"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/8ce8420e-470b-43f8-95cd-2f5a4665e073.zip"
+    recordedResponseCode="200" responseSize="289"
+    serverUid="imported_intnpestflogin.rci.rogers.com_22"
+    slaProfileEnabled="false" uid="3fcf4275-9f2f-4427-9ea7-4aa3661af560" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0ccc5762-4e88-422e-a98f-c776af4f1830.0.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0ccc5762-4e88-422e-a98f-c776af4f1830.0.txt</requestContentFileDescription>
+    <header name="Accept" value="application/xml, text/xml, */*; q=0.01"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="Csrf-Token" value="${CsrfToken}"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="X-Citrix-IsUsingHTTPS" value="Yes"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Content-Type: application/xml; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:03 GMT&#xd;
+Content-Length: 172</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

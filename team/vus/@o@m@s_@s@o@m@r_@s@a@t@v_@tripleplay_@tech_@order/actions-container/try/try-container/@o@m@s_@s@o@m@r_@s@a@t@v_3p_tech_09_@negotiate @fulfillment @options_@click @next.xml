@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_09_Negotiate Fulfillment Options_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="50f33ed9-65c6-4f4d-9c90-8809134e6155" weightsEnabled="false">
+    <weighted-embedded-action uid="db5d65c0-263f-40af-a4a2-8c19c17adabe"/>
+    <weighted-embedded-action uid="d7fd4ad4-3d0f-4415-a965-60fc645676c1"/>
+    <weighted-embedded-action uid="937aa501-9c76-4293-a7b5-17bd76e74ff2"/>
+</basic-logical-action-container>

@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select_Petmestro_1" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="239168d5-ae5a-412a-ac3a-ef866545abd9" weightsEnabled="false">
+    <weighted-embedded-action uid="91c90e13-934f-45be-b2bc-985e23549ef5"/>
+    <weighted-embedded-action uid="ee87b399-8374-4e5a-94be-e37d50b2dcb1"/>
+</basic-logical-action-container>

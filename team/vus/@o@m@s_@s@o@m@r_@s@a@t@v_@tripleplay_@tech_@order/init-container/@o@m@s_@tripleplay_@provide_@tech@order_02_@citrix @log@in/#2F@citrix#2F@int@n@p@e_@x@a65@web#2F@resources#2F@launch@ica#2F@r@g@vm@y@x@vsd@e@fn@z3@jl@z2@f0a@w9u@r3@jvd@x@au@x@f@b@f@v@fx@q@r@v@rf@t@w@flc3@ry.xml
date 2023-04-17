@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false"
+    name="/Citrix/IntNPE_XA65Web/Resources/LaunchIca/RGVmYXVsdEFnZ3JlZ2F0aW9uR3JvdXAuXFBFVFxQRVRfTWFlc3Ry"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_@s@a@t@v_@tripleplay_@tech_@order/%resources%/recorded-artifacts/f2850577-54e6-43d0-9dc3-cdbd9a5017e0.zip"
+    slaProfileEnabled="false" thinkTime="1414"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f2850577-54e6-43d0-9dc3-cdbd9a5017e0">
+    <embedded-action>f14cfd03-dd2e-4447-86d0-99df495a7f11</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/x-ica; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 28 Feb 2023 09:27:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/Resources/LaunchIca/RGVmYXVsdEFnZ3JlZ2F0aW9uR3JvdXAuXFBFVFxQRVRfTWFlc3Ryb19FbmdsaXNoLVNpbmdsZV83LTE1.ica"
+    path="/Citrix/IntNPE_XA65Web/Resources/LaunchIca/RGVmYXVsdEFnZ3JlZ2F0aW9uR3JvdXAuXFBFVFxQRVRfTWFlc3Ryb19FbmdsaXNoLVNpbmdsZV83LTE1.ica"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_@s@a@t@v_@tripleplay_@tech_@order/%resources%/recorded-artifacts/f2850577-54e6-43d0-9dc3-cdbd9a5017e0.zip"
+    recordedResponseCode="200" responseSize="1705"
+    serverUid="OMS_SOMR_SATV_Tripleplay_Tech_Orderintnpestflogin.rci.rogers.com"
+    slaProfileEnabled="false" uid="f14cfd03-dd2e-4447-86d0-99df495a7f11" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a132b5db-38ce-47f5-9c45-3aea7de5e9a8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a132b5db-38ce-47f5-9c45-3aea7de5e9a8.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
+        extractFromVarNameAdv="" extractFromVarNameSimple=""
+        extractType="0" extractTypeAdv="0" extractTypeSimple="0"
+        matchNumber="1" matchNumberAdv="1" matchNumberSimple="1"
+        name="IcaContent" regExp="(?s)(.*)" regExpAdv="(?s)(.*)"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="694f03c4-c749-49a0-bee8-e1972eb1a28e" xpath=""/>
+    <parameter encodeName="true" encodeValue="true" name="CsrfToken"
+        recordRawValue="EFDF09ACEE8F5A990B2D7414442487AD" separator="="
+        value="${CsrfToken}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="IsUsingHttps"
+        recordRawValue="Yes" separator="=" value="Yes" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="launchId"
+        recordRawValue="1656007305783" separator="="
+        value="${OMS_SOMR_SATV_Tripleplay_Tech_OrderCitrixTimestamp}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html, application/xhtml+xml, image/jxr, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=CA42889AFBAF8F06C1A950E09A0505DD; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=naxogqfvumft10jtqxlctyqd"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private, max-age=0, s-maxage=0&#xd;
+Content-Type: application/x-ica; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: Thu, 23 Jun 2022 18:01:45 GMT&#xd;
+Last-Modified: Thu, 23 Jun 2022 18:01:45 GMT&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Thu, 23 Jun 2022 18:01:46 GMT&#xd;
+Content-Length: 807</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

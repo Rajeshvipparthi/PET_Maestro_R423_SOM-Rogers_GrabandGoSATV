@@ -1,0 +1,208 @@
+<http-page executeResourcesDynamically="false"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/ico_desktop_ready_482FD91B201F2A55.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/8f9e33b1-ee21-4b4c-9dda-afd9194ebe51.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8f9e33b1-ee21-4b4c-9dda-afd9194ebe51">
+    <embedded-action>c224edfc-a7c6-4125-988e-dcec0cccca1a</embedded-action>
+    <embedded-action>9d54074d-9bb3-4211-a593-a0d1cec8f032</embedded-action>
+    <embedded-action>d0e5f6e1-d55f-4c94-ba38-35d3a60aa47c</embedded-action>
+    <embedded-action>749967e0-4bd4-426a-a572-6d681c41a0f9</embedded-action>
+    <embedded-action>7408280e-75b4-4d1f-8aa0-9e992ca240a6</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;48e3b2e3f48bd61:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 16 Sep 2020 06:44:56 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/receiver/images/1x/ico_desktop_ready_482FD91B201F2A55.png"
+    path="/Citrix/IntNPE_XA65Web/receiver/images/1x/ico_desktop_ready_482FD91B201F2A55.png"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/8f9e33b1-ee21-4b4c-9dda-afd9194ebe51.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="OMS_SOMR_SATV_Upgrade_Changeimported_intnpestflogin.rci.rogers.com_2"
+    slaProfileEnabled="false" uid="c224edfc-a7c6-4125-988e-dcec0cccca1a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7c53980e-76c2-4f41-a507-5558e93b5389.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7c53980e-76c2-4f41-a507-5558e93b5389.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_Jxe8JWiMv9oD; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=BC3617F678F1D523D6EAA59A57AC6147; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=zuq5o05tnvkt11jlnb5ng1j0"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=31536000&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Wed, 16 Sep 2020 06:17:03 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "59909cfef08bd61:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Fri, 03 Mar 2023 11:13:57 GMT&#xd;
+Content-Length: 488</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/l1.dat" path="/l1.dat" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/8f9e33b1-ee21-4b4c-9dda-afd9194ebe51.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="OMS_SOMR_SATV_Upgrade_Changeimported_c.urs.microsoft.com_2"
+    slaProfileEnabled="false" uid="9d54074d-9bb3-4211-a593-a0d1cec8f032" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_85b7447d-ffbf-41cd-b62e-bd0c848f3fb7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_85b7447d-ffbf-41cd-b62e-bd0c848f3fb7.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cw"
+        recordRawValue="638134318359200878" separator="="
+        value="638134318359200878" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="9.11.17763.0" separator="=" value="9.11.17763.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="os"
+        recordRawValue="10.0.17763.0.0" separator="="
+        value="10.0.17763.0.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pg"
+        recordRawValue="4A72F430-B40C-4D36-A068-CE33ADA5ADF9"
+        separator="=" value="4A72F430-B40C-4D36-A068-CE33ADA5ADF9" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; SUID=M; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="c.urs.microsoft.com"/>
+    <header name="UA-CPU" value="AMD64"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 80&#xd;
+Content-Type: application/octet-stream&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Fri, 03 Mar 2023 11:13:58 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/urs.asmx" path="/urs.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/8f9e33b1-ee21-4b4c-9dda-afd9194ebe51.zip"
+    recordedResponseCode="200" responseSize="362"
+    serverUid="OMS_SOMR_SATV_Upgrade_Changeimported_urs.microsoft.com_2"
+    slaProfileEnabled="false" uid="d0e5f6e1-d55f-4c94-ba38-35d3a60aa47c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f5814075-70f8-408c-9758-c2482c2e1b53.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f5814075-70f8-408c-9758-c2482c2e1b53.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-Client-Key"
+        recordRawValue="qYgbF9ZnlsJR7pLFz7FAHw%3d%3d" separator="="
+        value="qYgbF9ZnlsJR7pLFz7FAHw==" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-MAC" recordRawValue="MO8I4%2bFe8zc%3d" separator="="
+        value="MO8I4+Fe8zc=" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="urs.microsoft.com"/>
+    <header name="User-Agent" value="VCSoapClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 362&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Fri, 03 Mar 2023 11:13:58 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>EAFE3767-CEC7-7E8C-046A-7EF825A3CC85</O><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.17763.0.0</OS><I>9.11.17763.0</I><L>en-US</L><RU>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</RU><RI>0000:0000:0000:0000:0000:0000:0000:0001</RI><R><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIvUmVzb3VyY2VzL0xhdW5jaEljYS9SR1ZtWVhWc2RFRm5aM0psWjJGMGFXOXVSM0p2ZFhBdVhGQkZWRnhRUlZSZlRXRmxjM1J5YjE5RmJtZHNhWE5vTFZOcGJtZHNaVjh5TURFNS5pY2E/Q3NyZlRva2VuPTZGNjJFMTUyMzJFMjk1Nzk4NTcxQTBENzU4ODVDRkNGJklzVXNpbmdIdHRwcz1ZZXMmbGF1bmNoSWQ9MTY3Nzg0MjAzNzM3OQ==</URL><O>PRE</O><T>TOP</T><HIP>0000:0000:0000:0000:0000:0000:0000:0001</HIP></Rq></R><WA/><PRT>4969</PRT></RepLookup>]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/urs.asmx" path="/urs.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/8f9e33b1-ee21-4b4c-9dda-afd9194ebe51.zip"
+    recordedResponseCode="200" responseSize="732"
+    serverUid="OMS_SOMR_SATV_Upgrade_Changeimported_urs.microsoft.com_2"
+    slaProfileEnabled="false" uid="749967e0-4bd4-426a-a572-6d681c41a0f9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_015f8428-d5d0-4f07-8b1e-e7bc6a6d7579.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_015f8428-d5d0-4f07-8b1e-e7bc6a6d7579.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MSURS-Client-Key"
+        recordRawValue="EGu6aaXumvb/dM8ZA/0WeQ%3d%3d" separator="="
+        value="EGu6aaXumvb/dM8ZA/0WeQ%3d%3d" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MSURS-MAC" recordRawValue="7ga6/B4lbRE%3d" separator="="
+        value="7ga6/B4lbRE%3d" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="urs.microsoft.com"/>
+    <header name="User-Agent" value="VCSoapClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 732&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Fri, 03 Mar 2023 11:13:58 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>EAFE3767-CEC7-7E8C-046A-7EF825A3CC85</O><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.17763.0.0</OS><I>9.11.17763.0</I><L>en-US</L><RU>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</RU><RI>0000:0000:0000:0000:0000:0000:0000:0001</RI><R><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9jaXRyaXgvaW50bnBlX3hhNjV3ZWI=</URL><O>POST</O><T>ACTION</T><HIP>0.0.0.0</HIP></Rq><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9jaXRyaXgvaW50bnBlX3hhNjV3ZWIvZXhwbGljaXRhdXRoL2xvZ2luYXR0ZW1wdA==</URL><O>POST</O><T>ACTION</T><HIP>0.0.0.0</HIP></Rq><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIvUmVzb3VyY2VzL0xhdW5jaEljYS9SR1ZtWVhWc2RFRm5aM0psWjJGMGFXOXVSM0p2ZFhBdVhGQkZWRnhRUlZSZlRXRmxjM1J5YjE5RmJtZHNhWE5vTFZOcGJtZHNaVjh5TURFNS5pY2E/Q3NyZlRva2VuPTZGNjJFMTUyMzJFMjk1Nzk4NTcxQTBENzU4ODVDRkNGJklzVXNpbmdIdHRwcz1ZZXMmbGF1bmNoSWQ9MTY3Nzg0MjAzNzM3OQ==</URL><O>POST</O><T>FRAME</T><HIP>0.0.0.0</HIP></Rq></R><WA/><PRT>4969</PRT></RepLookup>]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v4/threatListUpdates:fetch"
+    path="/v4/threatListUpdates:fetch" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/8f9e33b1-ee21-4b4c-9dda-afd9194ebe51.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="OMS_SOMR_SATV_Upgrade_Changesafebrowsing.googleapis.com"
+    slaProfileEnabled="false" uid="7408280e-75b4-4d1f-8aa0-9e992ca240a6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0af4e088-d20b-4b2b-aa5f-aa43c001c731</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0af4e088-d20b-4b2b-aa5f-aa43c001c731.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="true" name="$req"
+        recordRawValue="Ch4KDGdvb2dsZWNocm9tZRIOMTEwLjAuNTQ4MS4xNzgaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARDkgRAaAhgMTM7JBSIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQm_ELGgIYDHJlVe4iBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABEKHGDBoCGAyrsGA2IgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYDLh8WbgiBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEENwxGgIYDJdyeiEiBCABIAIoBBooCA8QARoaCg0IDxAGGAEiAzAwMTABELtzGgIYDGE8H7AiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgM0OIa2yIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIBoCGAyfAjgFIgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARCLEhoCGAy8rgQ7IgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARDO3wEaAhgM9q4nYCIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQpOoLGgIYDCS_GW0iBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABEO7zBhoCGAyCiJ7fIgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARCeFxoCGAxsOGn3IgQgASACKAEiAggB"
+        separator="="
+        value="Ch4KDGdvb2dsZWNocm9tZRIOMTEwLjAuNTQ4MS4xNzgaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARDkgRAaAhgMTM7JBSIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQm_ELGgIYDHJlVe4iBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABEKHGDBoCGAyrsGA2IgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYDLh8WbgiBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEENwxGgIYDJdyeiEiBCABIAIoBBooCA8QARoaCg0IDxAGGAEiAzAwMTABELtzGgIYDGE8H7AiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgM0OIa2yIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIBoCGAyfAjgFIgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARCLEhoCGAy8rgQ7IgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARDO3wEaAhgM9q4nYCIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQpOoLGgIYDCS_GW0iBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABEO7zBhoCGAyCiJ7fIgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARCeFxoCGAxsOGn3IgQgASACKAEiAggB" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="false" name="$ct"
+        recordRawValue="application/x-protobuf" separator="="
+        value="application/x-protobuf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="key"
+        recordRawValue="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        separator="=" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="x-http-method-override" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-disposition: attachment&#xd;
+server: scaffolding on HTTPServer2&#xd;
+content-length: 2629&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+date: Fri, 03 Mar 2023 11:11:57 GMT&#xd;
+content-type: application/x-protobuf&#xd;
+vary: Accept-Encoding&#xd;
+age: 497&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

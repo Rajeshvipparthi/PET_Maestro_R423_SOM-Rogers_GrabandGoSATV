@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_02_ LogInCitrixStore"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="eb644a9f-cd86-46f7-9a36-18987aa949f7" weightsEnabled="false">
+    <weighted-embedded-action uid="cf5e03d4-6374-44e2-b10d-a03b4e3ac45d"/>
+    <weighted-embedded-action uid="744fc308-de23-4c5c-93f9-3c80fa9af900"/>
+</basic-logical-action-container>

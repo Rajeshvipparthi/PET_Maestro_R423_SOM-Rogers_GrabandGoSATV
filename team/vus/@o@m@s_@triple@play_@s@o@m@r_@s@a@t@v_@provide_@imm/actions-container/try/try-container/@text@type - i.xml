@@ -1,0 +1,13 @@
+<custom-action actionType="CitrixTextType" isHit="false"
+    name="TextType - i" uid="4be9b720-c113-4395-8803-f7174d60b928">
+    <description>This Action sends a text with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- text (required): Alphanumeric text to send on the keyboard.&#xd;
+- typingRateInMs (optional): Delay in milliseconds between each key typed. "0" means no delay. Default value is "150".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="text" type="TEXT" value="i"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_fd88cc29-4e34-4324-98f9-eeb8ee1eb73f</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@triple@play_@s@o@m@r_@s@a@t@v_@provide_@imm/%resources%/recorded-screenshots/sc_fd88cc29-4e34-4324-98f9-eeb8ee1eb73f.png</screenshotFileDescription>
+</custom-action>

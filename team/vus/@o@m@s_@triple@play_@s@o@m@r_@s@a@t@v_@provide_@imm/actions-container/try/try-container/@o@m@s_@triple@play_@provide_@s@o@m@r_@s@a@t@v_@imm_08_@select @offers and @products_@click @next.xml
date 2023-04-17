@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_SOMR_SATV_Imm_08_Select Offers and Products_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="fea5bda0-baca-4f18-b36d-9657e73c6c99" weightsEnabled="false">
+    <weighted-embedded-action uid="a27b0e27-2f73-42de-a792-4f64358ab649"/>
+    <weighted-embedded-action uid="69311b62-1b5d-4b21-a31d-9dd26e3fb037"/>
+    <weighted-embedded-action uid="03414d45-840f-4a72-8c62-40a10bf985f6"/>
+</basic-logical-action-container>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Upgarde_07_Update Order Action Attributes"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="d3c65ebf-3495-4b90-b45d-75ccda2ef573" weightsEnabled="false">
+    <weighted-embedded-action uid="f5c26499-3069-46b0-a68c-2d5fb02edf22"/>
+    <weighted-embedded-action uid="5726a4e8-b574-4637-8a80-1df4fc705b31"/>
+    <weighted-embedded-action uid="f80171f4-c64b-4b71-883b-b0996aa516ec"/>
+</basic-logical-action-container>

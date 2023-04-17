@@ -1,0 +1,3 @@
+<variable-constant constantValue="60000" name="OMS_SOMR_SATV_Upgrade_ChangecitrixWaitTimeoutInMs-UserPath_2" order="1" policy="1" range="2" uid="7fdde246-4ccb-43ca-9781-7982e2b8db4f" whenOutOfValues="CYCLE_VALUES">
+<description>Maximum timeout in milliseconds to wait on Citrix action WindowWait, ScreenshotWait and TextWait for user path UserPath_2.</description>
+</variable-constant>

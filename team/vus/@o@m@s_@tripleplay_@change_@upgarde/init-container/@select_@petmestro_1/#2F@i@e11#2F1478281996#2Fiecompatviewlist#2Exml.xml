@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    name="/IE11/1478281996/iecompatviewlist.xml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/4eb68479-02ae-4bff-99ce-655d6dc4ef03.zip"
+    slaProfileEnabled="false" thinkTime="2331"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4eb68479-02ae-4bff-99ce-655d6dc4ef03">
+    <embedded-action>e05e6afc-8d50-498a-af9e-f0a9472e7d73</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml"
+    eTag="0x8D9521E887068CE" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 28 Jul 2021 23:22:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/IE11/1478281996/iecompatviewlist.xml"
+    path="/IE11/1478281996/iecompatviewlist.xml" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-artifacts/4eb68479-02ae-4bff-99ce-655d6dc4ef03.zip"
+    recordedResponseCode="200" responseSize="230556"
+    serverUid="OMS_SOMR_SATV_Upgrade_Changeimported_iecvlist.microsoft.com_2"
+    slaProfileEnabled="false" uid="e05e6afc-8d50-498a-af9e-f0a9472e7d73" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_248de832-befc-4f38-9c82-d60ab0370e0a.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_248de832-befc-4f38-9c82-d60ab0370e0a.txt</requestContentFileDescription>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; SUID=M; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="ua-cpu" value="AMD64"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-encoding: gzip&#xd;
+age: 14182&#xd;
+cache-control: max-age=21600&#xd;
+content-md5: VK3+Czk6HL6MXpQYzu3vqQ==&#xd;
+content-type: text/xml&#xd;
+date: Fri, 03 Mar 2023 11:13:56 GMT&#xd;
+etag: 0x8D9521E887068CE&#xd;
+last-modified: Wed, 28 Jul 2021 23:22:14 GMT&#xd;
+server: ECAcc (dcb/7FD5)&#xd;
+vary: Accept-Encoding&#xd;
+x-cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: 4da98919-901e-0060-30a0-4da820000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+content-length: 25688</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

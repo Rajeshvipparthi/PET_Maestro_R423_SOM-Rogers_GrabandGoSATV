@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_SOMR_SATV_Imm_05_Find_caller"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="3e2286f5-2d13-4342-9f2c-502aff3ed03a" weightsEnabled="false">
+    <weighted-embedded-action uid="60613421-3f56-4ef7-b4a1-892c8dc75239"/>
+    <weighted-embedded-action uid="a09c3e00-9052-4192-8540-dcfdf1c9186a"/>
+    <weighted-embedded-action uid="2b9cd950-e8cf-4b53-bb78-bdf847c92c14"/>
+</basic-logical-action-container>

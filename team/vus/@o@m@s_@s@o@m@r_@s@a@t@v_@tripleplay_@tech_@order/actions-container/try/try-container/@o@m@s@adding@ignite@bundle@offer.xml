@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMSAddingIgniteBundleOffer" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5fff7e6b-c394-4c27-b2ab-15241cdb8655" weightsEnabled="false">
+    <weighted-embedded-action uid="a1fc0454-84a6-41a2-8c8c-ace0c5f70e6f"/>
+    <weighted-embedded-action uid="b1b6b29f-2daf-47a1-8112-553608378c95"/>
+    <weighted-embedded-action uid="34a5528e-9b09-4b1c-8c53-17ea12042492"/>
+    <weighted-embedded-action uid="7d2a6e18-e0ef-4192-845c-be21b0d868bb"/>
+    <weighted-embedded-action uid="f1047f05-7b5c-42a6-8f5a-ca49e15df6a7"/>
+    <weighted-embedded-action uid="64c770a2-f1bb-4fa0-8a5c-a9ee3f8ccd64"/>
+    <weighted-embedded-action uid="87cda389-db7a-4584-8a7e-7502b7c4c02b"/>
+    <weighted-embedded-action uid="490931c7-5f3c-4ea1-83cf-125a9a854c68"/>
+</basic-logical-action-container>

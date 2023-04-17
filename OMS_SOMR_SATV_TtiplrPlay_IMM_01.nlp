@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=OMS_SOMR_SATV_TtiplrPlay_IMM_01
+project.version=8.7
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.0.2
+project.is-open-test-settings-after-upload=false
+project.id=41691dbb-651a-4b44-9bc1-342ab2b745e0
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/Rajeshvipparthi/PET_Maestro_R423_SOM-Rogers_GrabandGoSATV.git

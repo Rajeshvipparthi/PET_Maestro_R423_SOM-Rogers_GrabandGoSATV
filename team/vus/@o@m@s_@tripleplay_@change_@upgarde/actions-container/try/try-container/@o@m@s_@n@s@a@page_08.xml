@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMS_NSAPage_08" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="bd9f7998-ae51-46a6-8215-c5a0d13e164d" weightsEnabled="false">
+    <weighted-embedded-action uid="8ead51f1-678a-4e8c-a9c9-309badfc7485"/>
+    <weighted-embedded-action uid="a19ba4ef-96ec-48e5-8493-c55d3802cd14"/>
+</basic-logical-action-container>

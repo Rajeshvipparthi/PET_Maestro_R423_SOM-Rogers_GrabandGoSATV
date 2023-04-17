@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_ApplicationLogin_02" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="9f27369a-735e-4cef-b404-5624d63e763c" weightsEnabled="false">
+    <weighted-embedded-action uid="fa46d605-8e0f-4c35-b17d-7db78dc088bf"/>
+    <weighted-embedded-action uid="39dd9294-a692-41e6-a70d-b1bb56224b50"/>
+    <weighted-embedded-action uid="ea8bc148-a761-480e-a42f-f17324a87e3f"/>
+</basic-logical-action-container>

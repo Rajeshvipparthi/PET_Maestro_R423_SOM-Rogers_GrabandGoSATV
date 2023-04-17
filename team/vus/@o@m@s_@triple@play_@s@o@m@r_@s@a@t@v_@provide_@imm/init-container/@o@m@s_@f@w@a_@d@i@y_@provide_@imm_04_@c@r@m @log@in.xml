@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_FWA_DIY_Provide_Imm_04_CRM LogIn" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e328194b-1f9a-486b-bb24-295772554fa4" weightsEnabled="false">
+    <weighted-embedded-action uid="deb41652-2b90-4f39-af7f-870ef38f9df1"/>
+    <weighted-embedded-action uid="c4c9a87a-e65a-4b92-ae35-6e0a5c82c38e"/>
+    <weighted-embedded-action uid="5dc83348-46ba-4cff-aeb6-3dbe56d45be3"/>
+</basic-logical-action-container>

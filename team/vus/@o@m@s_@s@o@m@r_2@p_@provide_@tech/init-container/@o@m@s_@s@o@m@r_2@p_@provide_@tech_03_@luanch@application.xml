@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_03_LuanchApplication" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="19e73865-e942-4994-a667-bdb1db38e898" weightsEnabled="false">
+    <weighted-embedded-action uid="826a14eb-7378-4b23-9c07-d5e9215724e1"/>
+    <weighted-embedded-action uid="cfaff324-edd9-4d49-9781-e62890d301bf"/>
+    <weighted-embedded-action uid="1b00e046-9cf8-4019-9a90-e3134890dcef"/>
+    <weighted-embedded-action uid="addf022c-a3f1-4b88-a3cd-4a84d90902dd"/>
+    <weighted-embedded-action uid="003884dd-c04c-4961-b68a-e80d8a99277c"/>
+    <weighted-embedded-action uid="b82e7e8f-5972-42db-8ad5-674efbafdefe"/>
+</basic-logical-action-container>

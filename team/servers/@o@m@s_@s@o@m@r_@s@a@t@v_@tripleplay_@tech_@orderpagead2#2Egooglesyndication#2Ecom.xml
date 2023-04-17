@@ -1,0 +1,6 @@
+<http-server hostname="pagead2.googlesyndication.com" port="443"
+    ssl="true"
+    uid="OMS_SOMR_SATV_Tripleplay_Tech_Orderpagead2.googlesyndication.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

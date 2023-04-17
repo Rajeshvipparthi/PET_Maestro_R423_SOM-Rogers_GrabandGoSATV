@@ -1,0 +1,37 @@
+<zone dnsOverrideEnabled="false" proxyType="COMMON"
+    proxyTypeLg="NO_PROXY" uid="Default zone">
+    <embedded-action>f3260047-5fe3-47e4-94f1-a563e78fad7d</embedded-action>
+    <embedded-action>c973e01a-10b9-4768-a17b-86aa2803fa24</embedded-action>
+    <embedded-action>bdb0ba41-0069-47ab-922c-38b6aeb5e4a2</embedded-action>
+    <embedded-action>65bf8ca5-3624-4d5d-a908-6950775fb5a7</embedded-action>
+    <embedded-action>debf9c7b-246f-4da6-a15f-9c39a227167c</embedded-action>
+    <embedded-action>d85e0454-093b-4d1c-b4d9-5e0189261b7d</embedded-action>
+    <embedded-action>d672bebf-63c2-4f55-b309-bc125f08f37b</embedded-action>
+    <embedded-action>64d2c4b5-66c5-4ee4-ab68-9839a96b0377</embedded-action>
+    <embedded-action>3f7b91bd-6c2c-4a9f-acbd-71ff694bae08</embedded-action>
+    <embedded-action>89ac2eb1-f8b1-4ce1-a47f-c86662934772</embedded-action>
+    <embedded-action>9255e6f5-335d-4375-aa32-d6fcb04e35f7</embedded-action>
+    <embedded-action>e1541e51-264d-48b9-a41d-e17bcc8256a5</embedded-action>
+    <embedded-action>9adc1665-f496-436c-8b4a-03918be99ece</embedded-action>
+    <embedded-action>a09f9272-9318-438f-b92a-4434c21eb910</embedded-action>
+    <embedded-action>f63b010e-5e39-45c4-9bc2-fb8be76bd5cc</embedded-action>
+    <embedded-action>6885c7ae-f15b-4449-8e52-7659a434acf0</embedded-action>
+    <embedded-action>741825fd-54c7-43c7-98af-0e3bf1d315ce</embedded-action>
+    <embedded-action>25b4b3c1-428f-4856-9667-73ebc97d4309</embedded-action>
+    <embedded-action>927637c6-e555-4433-bdb3-4409f5e4c684</embedded-action>
+    <embedded-action>d0c08cc5-d76e-40bf-9d24-74bc3270d9d7</embedded-action>
+    <embedded-action>877cd997-26c2-4034-8f15-d4e0db25b2a4</embedded-action>
+    <embedded-action>e0fbd415-ffb9-4bfd-a631-4c277aa0d79f</embedded-action>
+    <embedded-action>58de999c-516b-41f8-910d-a443abff4550</embedded-action>
+    <embedded-action>72ea6fc2-2c9c-4ece-bb6d-c84e13f46dbc</embedded-action>
+    <embedded-action>def47ffe-8de9-4adc-be28-2248797d78c6</embedded-action>
+    <embedded-action>8fed6ed3-1a79-4ea1-9b92-467d4eed38c2</embedded-action>
+    <embedded-action>242adc04-8158-47c5-8b37-ae42a5bcb4cd</embedded-action>
+    <embedded-action>e7daa14d-292d-4cbf-a953-2ede1c0e7bce</embedded-action>
+    <embedded-action>2bc75717-3047-423f-afaa-bdfc3721fb54</embedded-action>
+    <embedded-action>dbf8e993-c862-461a-8aff-c4096b7d569d</embedded-action>
+    <embedded-action>7f5bc77f-3406-4a3c-8c9e-e60d275a722a</embedded-action>
+    <embedded-action>f042b9bd-ee46-4d5e-885b-2692cf09ef97</embedded-action>
+    <embedded-action>5d202a22-f329-4ee2-837d-d73036c3f417</embedded-action>
+    <embedded-action>073fd7ae-8d4c-4a3c-a248-447cb3feb547</embedded-action>
+</zone>

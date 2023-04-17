@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_SOMR_SATV_Imm_11_Negotiate Fulfillment Options_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="b97ccd3e-e51f-43bb-a37c-5ee04e30d170" weightsEnabled="false">
+    <weighted-embedded-action uid="26cecaad-95c8-4850-9503-828c92b7b73b"/>
+    <weighted-embedded-action uid="1be19946-b1de-4b49-927b-43eb2aa4f765"/>
+    <weighted-embedded-action uid="5df1ece7-7229-41c6-ae4e-ba296454212a"/>
+</basic-logical-action-container>

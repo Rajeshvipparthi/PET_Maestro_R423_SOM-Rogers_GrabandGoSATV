@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_04_CRM LogIn"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="9bf77ca6-ac3d-4801-8dac-5c49c6b56b7b" weightsEnabled="false">
+    <weighted-embedded-action uid="f7f495d4-02dd-402c-bd12-f6bea328c05a"/>
+    <weighted-embedded-action uid="fe57b667-52e6-4f8e-8e24-1f712aeea1ca"/>
+    <weighted-embedded-action uid="e22ce2ba-1da0-4d61-8561-81ec0be3f878"/>
+    <weighted-embedded-action uid="c89fd597-ca73-49be-b43c-5fe180c9dd71"/>
+</basic-logical-action-container>

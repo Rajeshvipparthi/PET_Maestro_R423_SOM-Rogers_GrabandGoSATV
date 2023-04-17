@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_08_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="f7fb90bb-c359-4079-8c15-e901294325fe" weightsEnabled="false">
+    <weighted-embedded-action uid="62543bd8-c157-4358-8153-5703bcd68e60"/>
+    <weighted-embedded-action uid="78d1949a-b979-46b2-8378-99bb920299fe"/>
+    <weighted-embedded-action uid="d3e40336-b916-4a60-8af7-ca6506b2e11f"/>
+    <weighted-embedded-action uid="80bfd7a7-8d61-4a51-b4d0-bb7df227abe9"/>
+</basic-logical-action-container>

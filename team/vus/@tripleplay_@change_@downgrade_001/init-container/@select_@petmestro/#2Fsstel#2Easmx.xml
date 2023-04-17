@@ -1,0 +1,42 @@
+<http-page executeResourcesDynamically="false" name="/sstel.asmx"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tripleplay_@change_@downgrade_001/%resources%/recorded-artifacts/9bc91957-84c9-4dfc-97c9-0a52ad6aa124.zip"
+    slaProfileEnabled="false" thinkTime="3641"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9bc91957-84c9-4dfc-97c9-0a52ad6aa124">
+    <embedded-action>d255a28d-cc34-4b6b-b581-7652c7bce379</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/sstel.asmx" path="/sstel.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@tripleplay_@change_@downgrade_001/%resources%/recorded-artifacts/9bc91957-84c9-4dfc-97c9-0a52ad6aa124.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="OMS_SOMR_SATV_Downgrade_Changet.urs.microsoft.com"
+    slaProfileEnabled="false" uid="d255a28d-cc34-4b6b-b581-7652c7bce379" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aa8d229d-5acd-45f4-b622-2c6c536dc5a4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f2781a08-f2a4-4ae6-b893-999fcf59f0ed.0.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSTel-Client-Key"
+        recordRawValue="0fmChkWUHD1j69ePSwhzcA%3d%3d" separator="="
+        value="0fmChkWUHD1j69ePSwhzcA==" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSTel-MAC" recordRawValue="5grZxnlYlXs%3d" separator="="
+        value="5grZxnlYlXs=" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="t.urs.microsoft.com"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 0&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Wed, 13 Jul 2022 07:22:51 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<ST v="3"><G>{4A72F430-B40C-4D36-A068-CE33ADA5ADF9}</G><ID>{11B72747-9B6D-4EF7-B2B9-7B180B5923BB}</ID><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><UI>B7256C571AE5810CA9972226C711C111921D4CC5D7B4282221EE06DBC1F09916</UI><C>9.11.17763.0</C><OS>10.0.17763.0.0</OS><L>en-US</L><W>637932886290679884</W><TB>1</TB><SR>0.500000</SR><U>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIvUmVzb3VyY2VzL0xhdW5jaEljYS9SR1ZtWVhWc2RFRm5aM0psWjJGMGFXOXVSM0p2ZFhBdVhGQkZWRnhRUlZSZlRXRmxjM1J5YjE5RmJtZHNhWE5vTFZOcGJtZHNaVjgzTFRFMS5pY2E/Q3NyZlRva2VuPTRBODkxNEE0M0RDM0M2ODhCM0QzQTk5NTMwMjMyMzczJklzVXNpbmdIdHRwcz1ZZXMmbGF1bmNoSWQ9MTY1NzY5Njk2NzAxNw==</U><IP>::1</IP><T>F</T><V>GET</V><TU>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</TU><RU>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</RU><RD>0</RD><L1>0</L1><L2>0</L2><TT>0</TT><UL1><TM>2022-07-13:07:10:46</TM><DL>0</DL><PR>0</PR></UL1><LT>33</LT><UD>0</UD></ST>]]></textPostContent>
+</http-action>

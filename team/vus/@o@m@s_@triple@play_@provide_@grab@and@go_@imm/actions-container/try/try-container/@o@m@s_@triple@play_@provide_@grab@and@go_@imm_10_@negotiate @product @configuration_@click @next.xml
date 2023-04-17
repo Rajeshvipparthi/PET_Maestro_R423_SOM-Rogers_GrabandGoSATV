@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_10_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="be47454b-052c-4a05-9318-30a0ee255f4c" weightsEnabled="false">
+    <weighted-embedded-action uid="4cf06eef-0fd1-4ff8-8502-af3c7a38307e"/>
+    <weighted-embedded-action uid="41be9397-8200-4361-8e13-be9cfc20339d"/>
+    <weighted-embedded-action uid="2edde78b-29e7-4686-bd40-b5dba1b30797"/>
+    <weighted-embedded-action uid="2176f9f6-d4b7-4535-b9b4-6fc5ac308846"/>
+</basic-logical-action-container>

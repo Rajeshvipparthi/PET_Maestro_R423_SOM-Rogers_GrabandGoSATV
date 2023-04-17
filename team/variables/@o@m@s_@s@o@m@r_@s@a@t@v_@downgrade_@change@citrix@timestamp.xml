@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_SOMR_SATV_Downgrade_ChangeCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="87c41d44-d7eb-4c47-97cc-38b732544a8f" whenOutOfValues="CYCLE_VALUES"/>

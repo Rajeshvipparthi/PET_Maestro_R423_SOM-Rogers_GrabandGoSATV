@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_SOMR_SATV_Imm_09_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="f87247a6-57fe-4520-a232-2a8a07a0cae2" weightsEnabled="false">
+    <weighted-embedded-action uid="7b5fd2ce-391b-4e6a-bf78-d95b621813fd"/>
+    <weighted-embedded-action uid="2ae09a2a-b8c0-4fff-b6dd-01087f2b85d6"/>
+    <weighted-embedded-action uid="4054ec42-db97-4619-b695-2bb86f5c67a1"/>
+</basic-logical-action-container>

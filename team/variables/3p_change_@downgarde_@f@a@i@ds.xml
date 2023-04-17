@@ -1,0 +1,3 @@
+<variable-file delimiters="," filename="3P_Change_FAIDs.1.txt" name="3p_change_Downgarde_FAIDs" offset="30" order="3" policy="5" range="1" uid="cac7d4ec-6222-4d7e-abbd-810b8779c808" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="FAIDs" number="0"/>
+</variable-file>

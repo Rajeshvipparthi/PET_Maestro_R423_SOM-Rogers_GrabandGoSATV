@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="-1" inc-value="0" name="OMS_SOMR_SATV_Upgrade_ChangeCurrentDateVariable_1" order="1" pattern="dd. MMMM yyyy HH:mm:ss.S z" policy="1" range="2" uid="ef59edd1-375e-4f7d-b063-ef9d10138855" whenOutOfValues="CYCLE_VALUES"/>

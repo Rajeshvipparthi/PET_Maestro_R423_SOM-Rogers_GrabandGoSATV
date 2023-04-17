@@ -1,0 +1,19 @@
+<custom-action actionType="CitrixMouseClick" enabled="false"
+    isHit="false"
+    name="MouseClick - Maestro Customer Interaction Manag..._16" uid="1e544661-a3f8-4009-a26d-8a690205e11e">
+    <description>This Action sends a mouse click or double click of the specified button and optionally a key modifier.
+
+Possible parameters are:&#xd;
+- windowName (optional): Window name, that can be a regular expression. It can contain a NeoLoad variable. If a regular expression is used, then any characters considered as reserved need to be escaped according to the regex syntax standard (for example characters \|?*+()[].). For example, "Document.*" will match any window name starting with string "Document", and "Document \(\d+\)" will match any window name with "Document" followed by a number in parenthesis, such as "Document (1)" or "Document (10)". If empty, the working area is the full screen.&#xd;
+- mousePosition (required): Mouse position, like "x,y". Position is relative to the ICA Client Window if no windowName specified, or relative to the windowName specified.&#xd;
+- mouseButton (required): Mouse button: LEFT_BUTTON, RIGHT_BUTTON or MIDDLE_BUTTON. Default value is "LEFT_BUTTON".&#xd;
+- doubleClick (required): Is a double click or not. Default value is "false".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].&#xd;
+- clickDelayInMs (optional): Delay in milliseconds between the mouse click DOWN and the click UP. Default value is "0".&#xd;
+- doubleClickDelayInMs (optional): Delay in millis between the two clicks for a double click. Default value is "100".</description>
+    <custom-action-parameter name="mousePosition" type="TEXT" value="347,479"/>
+    <custom-action-parameter name="doubleClick" type="TEXT" value="false"/>
+    <custom-action-parameter name="mouseButton" type="TEXT" value="LEFT_BUTTON"/>
+    <responsePageFileDescription>recorded-responses/res_fc48b5de-f254-4ce3-b86d-aa7ce71dce42</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-screenshots/sc_fc48b5de-f254-4ce3-b86d-aa7ce71dce42.0.png</screenshotFileDescription>
+</custom-action>

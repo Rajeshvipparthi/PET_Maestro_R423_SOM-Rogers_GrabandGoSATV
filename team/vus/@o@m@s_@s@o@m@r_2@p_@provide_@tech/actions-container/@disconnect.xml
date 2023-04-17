@@ -1,0 +1,14 @@
+<custom-action actionType="CitrixDisconnect" enabled="false"
+    isHit="true" name="Disconnect" uid="e16c641e-01d6-4247-a416-ada55fbda946">
+    <description>This action logoff and disconnects the currently connected user from the Citrix Server.
+
+Possible parameters are:&#xd;
+- disconnectTimeoutInMs (required): Maximum timeout in millis to wait for logoff and disconnect from the server. Default value is "60000".&#xd;
+- ignoreErrors (required): true of false to ignore disconnection errors. Default value is "false".&#xd;
+- secureDelay (optional): Secured delay after a successful disconnect. Default value is "4000".&#xd;
+- recyclingIterations (optional): Every X number of iterations, citrix client will be destroyed and a new one will be created. If 0, recycling is disabled. Default value is "25".</description>
+    <custom-action-parameter name="disconnectTimeoutInMs" type="TEXT" value="60000"/>
+    <custom-action-parameter name="ignoreErrors" type="TEXT" value="false"/>
+    <responsePageFileDescription>recorded-responses/res_9979c3c1-53d8-4ec0-add4-88787a65c95b</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-screenshots/sc_9979c3c1-53d8-4ec0-add4-88787a65c95b.2.png</screenshotFileDescription>
+</custom-action>

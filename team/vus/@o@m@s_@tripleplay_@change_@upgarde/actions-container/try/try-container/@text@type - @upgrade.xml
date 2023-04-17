@@ -1,0 +1,13 @@
+<custom-action actionType="CitrixTextType" isHit="false"
+    name="TextType - Upgrade" uid="62e6b168-9165-4b32-83bb-2e3e1bdc596e">
+    <description>This Action sends a text with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- text (required): Alphanumeric text to send on the keyboard.&#xd;
+- typingRateInMs (optional): Delay in milliseconds between each key typed. "0" means no delay. Default value is "150".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="text" type="TEXT" value="U"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_4b2c19dd-aa1a-4a48-acfb-a7445705af19</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-screenshots/sc_4b2c19dd-aa1a-4a48-acfb-a7445705af19.png</screenshotFileDescription>
+</custom-action>

@@ -1,0 +1,19 @@
+<custom-action actionType="CitrixTextWait" isHit="true"
+    name="TextWait - Confirmation_1" uid="eadd6f9e-1f4a-4210-97c2-7b863e67551b">
+    <description>This Action waits for text to appear in a window (by filling parameter "windowName") OR in a specific region (by filling parameter "windowRect").
+
+Possible parameters are:&#xd;
+- windowName (optional): Window name, that can be a regular expression. It can contain a NeoLoad variable. If a regular expression is used, then any characters considered as reserved need to be escaped according to the regex syntax standard (for example characters \|?*+()[].). For example, "Document.*" will match any window name starting with string "Document", and "Document \(\d+\)" will match any window name with "Document" followed by a number in parenthesis, such as "Document (1)" or "Document (10)". If empty, the working area is the full screen.&#xd;
+- windowRect (optional): Region of the window in the format: [poxX,poxY,width,height]. It will be absolute coordinate if no "windowName", or relative coordinate if "windowName" is specified or empty if full screenshot.&#xd;
+- text (required): Text to look for, can be a regular expression. It can contain a NeoLoad variable. If a regular expression is used, then any characters considered as reserved need to be escaped according to the regex syntax standard (for example characters \|?*+()[].). For example, "keyword" will match if the extracted content starts with "keyword", ".*keyword.*" will match if the single line extracted content contains "keyword", and "(.|\n)*keyword(.|\n)*" will match if the multi line extracted content contains "keyword".&#xd;
+- inverseColor (required): When recognizing white text over black background, set it to true to best result. Default value is "false".&#xd;
+- pollingDelayInMs (required): Delay in milliseconds between each check. Default value is "500".&#xd;
+- waitTimeoutInMs (required): Maximum timeout in milliseconds to wait. Default value is "60000".</description>
+    <custom-action-parameter name="windowRect" type="TEXT" value="[352,132,88,30]"/>
+    <custom-action-parameter name="text" type="TEXT" value="Confirmation"/>
+    <custom-action-parameter name="inverseColor" type="TEXT" value="false"/>
+    <custom-action-parameter name="pollingDelayInMs" type="TEXT" value="500"/>
+    <custom-action-parameter name="waitTimeoutInMs" type="TEXT" value="180000"/>
+    <responsePageFileDescription>recorded-responses/res_429f3827-c6f3-4edd-b64a-d525e7070175</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-screenshots/sc_554b4183-2f1f-44f8-89e2-a5622d370620.png</screenshotFileDescription>
+</custom-action>

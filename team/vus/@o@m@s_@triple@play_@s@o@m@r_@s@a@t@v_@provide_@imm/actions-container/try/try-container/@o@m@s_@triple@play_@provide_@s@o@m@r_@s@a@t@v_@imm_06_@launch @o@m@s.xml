@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_SOMR_SATV_Imm_06_Launch OMS"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="947c48af-abfb-4406-95b7-ba079663c568" weightsEnabled="false">
+    <weighted-embedded-action uid="f4d18a07-ba2d-4c73-9342-586b8df14b17"/>
+    <weighted-embedded-action uid="1e000000-72f6-46c0-8719-fd71a365898b"/>
+    <weighted-embedded-action uid="3261ed89-3bca-474f-868c-1b7cf7af5a9a"/>
+    <weighted-embedded-action uid="f4e036cd-3497-40f2-85bf-25f9f0cdc4b0"/>
+</basic-logical-action-container>

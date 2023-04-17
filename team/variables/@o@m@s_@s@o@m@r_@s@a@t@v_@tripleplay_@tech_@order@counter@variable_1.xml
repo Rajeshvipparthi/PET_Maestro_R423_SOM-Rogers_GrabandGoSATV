@@ -1,0 +1,1 @@
+<variable-counter inc="100" max="999999999" name="OMS_SOMR_SATV_Tripleplay_Tech_OrderCounterVariable_1" order="1" policy="1" range="1" starting="275000000" uid="2b92dedf-3fda-4063-9af9-a2e1b362cdf7" whenOutOfValues="CYCLE_VALUES"/>

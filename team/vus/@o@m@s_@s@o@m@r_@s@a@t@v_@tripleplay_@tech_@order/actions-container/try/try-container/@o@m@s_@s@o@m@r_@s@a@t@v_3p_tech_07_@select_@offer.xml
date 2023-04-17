@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_07_Select_Offer" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="586945f2-49ab-4a63-a703-22a940576e25" weightsEnabled="false">
+    <weighted-embedded-action uid="770c828e-2b05-42c4-938e-4e481da0ab46"/>
+    <weighted-embedded-action uid="0fe1af55-73e3-4ab3-8c5d-eef61e1d3573"/>
+    <weighted-embedded-action uid="4f554e62-19ec-4876-b4ea-68c1dba53fb6"/>
+    <weighted-embedded-action uid="2e775af7-411f-46d9-b562-cb28a9a1c3c7"/>
+</basic-logical-action-container>

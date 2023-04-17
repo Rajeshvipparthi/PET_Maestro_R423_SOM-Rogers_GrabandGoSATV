@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMS_CirtixLunch_01" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="bf374a54-ee23-4f59-bd6f-0e3ee59bd8c6" weightsEnabled="false">
+    <weighted-embedded-action uid="416278e7-0f91-4117-a3dd-d0882d8ef6da"/>
+    <weighted-embedded-action uid="84c2075a-4e76-4ddb-9b34-16d3b11d0eac"/>
+</basic-logical-action-container>

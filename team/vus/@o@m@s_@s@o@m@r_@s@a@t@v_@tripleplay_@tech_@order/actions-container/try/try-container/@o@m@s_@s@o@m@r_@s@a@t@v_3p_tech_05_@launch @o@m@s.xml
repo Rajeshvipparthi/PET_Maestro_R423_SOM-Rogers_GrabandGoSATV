@@ -1,0 +1,17 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_05_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="8e36bd91-e390-43cc-b725-feed5717cd3a" weightsEnabled="false">
+    <weighted-embedded-action uid="c4383901-9102-4c19-ba8e-914c297a9a13"/>
+    <weighted-embedded-action uid="40349b16-f48a-4f56-9836-68f04982ccef"/>
+    <weighted-embedded-action uid="a3ff31a0-b8d6-49dc-8918-056422bc909a"/>
+    <weighted-embedded-action uid="f24cf14f-29fd-4cff-8d28-6f9565a43e8d"/>
+    <weighted-embedded-action uid="91506596-7b8a-4a9a-b19c-348b2a553f98"/>
+    <weighted-embedded-action uid="87247fe5-6364-4924-bc50-a5a9c648e343"/>
+    <weighted-embedded-action uid="56316a7a-3db7-48f2-8ee1-7ff3682f1f99"/>
+    <weighted-embedded-action uid="8a565c41-1154-444f-891c-21a90e4942c1"/>
+    <weighted-embedded-action uid="915baca7-45e8-48b5-bbc9-d906d97be3a7"/>
+    <weighted-embedded-action uid="1c6d4fa1-04a9-4a2e-bc7c-3b8cc39daea4"/>
+    <weighted-embedded-action uid="bb922657-3ffd-4e01-b329-bd00649a85c7"/>
+    <weighted-embedded-action uid="d568f000-b56e-4672-9219-1c987c5a148b"/>
+</basic-logical-action-container>

@@ -1,0 +1,13 @@
+<custom-action actionType="CitrixTextType" isHit="false"
+    name="TextType - Asmsa" uid="c5512b44-57bc-4f02-b3ad-6027f3694800">
+    <description>This Action sends a text with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- text (required): Alphanumeric text to send on the keyboard.&#xd;
+- typingRateInMs (optional): Delay in milliseconds between each key typed. "0" means no delay. Default value is "150".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="text" type="TEXT" value="${3p_Change_Downgarde_App_Credentials.Username}"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_19d91088-868b-45b9-8b23-9041eb78b0b4</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@tripleplay_@change_@downgrade_001/%resources%/recorded-screenshots/sc_19d91088-868b-45b9-8b23-9041eb78b0b4.0.png</screenshotFileDescription>
+</custom-action>

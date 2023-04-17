@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_TriplePlay_Provide_Tech_04_CRM LogIn" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="b83a26f3-86ce-4957-a1c0-c4297cf2b945" weightsEnabled="false">
+    <weighted-embedded-action uid="f99f87ae-ac13-4523-8723-e2bfa446012d"/>
+    <weighted-embedded-action uid="ed09d931-5180-4e16-9c96-6a7d26fd76db"/>
+</basic-logical-action-container>

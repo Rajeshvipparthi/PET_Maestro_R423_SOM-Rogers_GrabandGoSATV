@@ -1,0 +1,4 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="LunchCitrixlogin" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="467d0ab8-8964-470f-bd3d-b64b25f56ab1" weightsEnabled="false"/>

@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_11_Submit Order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="80c8a22d-f538-46b0-b0e4-6e855aa3ed41" weightsEnabled="false">
+    <weighted-embedded-action uid="ea627131-e440-43df-9025-45e1c13faa59"/>
+</basic-logical-action-container>

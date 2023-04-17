@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_Installation" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="8135aa96-43a5-46b8-a6d3-5044c1b91672" weightsEnabled="false">
+    <weighted-embedded-action uid="4dd5822a-34b2-4b1b-b6a6-632b47f8af44"/>
+    <weighted-embedded-action uid="00e897ca-8f13-40b2-81b0-1d69fa572c3e"/>
+    <weighted-embedded-action uid="41a55221-8f66-48d1-bc97-565a848d797d"/>
+    <weighted-embedded-action uid="172a3f64-4b52-4fe3-be8c-dc0a0b298f36"/>
+</basic-logical-action-container>

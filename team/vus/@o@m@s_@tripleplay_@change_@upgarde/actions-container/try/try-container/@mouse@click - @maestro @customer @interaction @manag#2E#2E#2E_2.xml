@@ -1,0 +1,18 @@
+<custom-action actionType="CitrixMouseClick" isHit="false"
+    name="MouseClick - Maestro Customer Interaction Manag..._2" uid="ebf5839f-09a5-4aee-abb3-0db63fed2a9d">
+    <description>This Action sends a mouse click or double click of the specified button and optionally a key modifier.
+
+Possible parameters are:&#xd;
+- windowName (optional): Window name, that can be a regular expression. It can contain a NeoLoad variable. If a regular expression is used, then any characters considered as reserved need to be escaped according to the regex syntax standard (for example characters \|?*+()[].). For example, "Document.*" will match any window name starting with string "Document", and "Document \(\d+\)" will match any window name with "Document" followed by a number in parenthesis, such as "Document (1)" or "Document (10)". If empty, the working area is the full screen.&#xd;
+- mousePosition (required): Mouse position, like "x,y". Position is relative to the ICA Client Window if no windowName specified, or relative to the windowName specified.&#xd;
+- mouseButton (required): Mouse button: LEFT_BUTTON, RIGHT_BUTTON or MIDDLE_BUTTON. Default value is "LEFT_BUTTON".&#xd;
+- doubleClick (required): Is a double click or not. Default value is "false".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].&#xd;
+- clickDelayInMs (optional): Delay in milliseconds between the mouse click DOWN and the click UP. Default value is "0".&#xd;
+- doubleClickDelayInMs (optional): Delay in millis between the two clicks for a double click. Default value is "100".</description>
+    <custom-action-parameter name="mousePosition" type="TEXT" value="347,30"/>
+    <custom-action-parameter name="doubleClick" type="TEXT" value="false"/>
+    <custom-action-parameter name="mouseButton" type="TEXT" value="LEFT_BUTTON"/>
+    <responsePageFileDescription>recorded-responses/res_19600f91-49bd-452b-997c-e02da8d3b91c</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-screenshots/sc_7da2c2a5-5976-43eb-af2e-4764fd263e46.png</screenshotFileDescription>
+</custom-action>

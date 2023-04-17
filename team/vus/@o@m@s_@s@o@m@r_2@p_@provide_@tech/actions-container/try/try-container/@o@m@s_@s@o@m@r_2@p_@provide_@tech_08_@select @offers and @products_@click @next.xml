@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_08_Select Offers and Products_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="769a8302-b2e2-49d1-8a3f-93acae700417" weightsEnabled="false">
+    <weighted-embedded-action uid="0642fcd3-6878-49cb-8c6f-ff466ff7124e"/>
+    <weighted-embedded-action uid="52d4dc22-9fdb-4432-8fd4-106d19a06e37"/>
+</basic-logical-action-container>

@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_01_Launch Citrix"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="14c3ff0e-50f0-43f3-b855-d8de7a70f684" weightsEnabled="false">
+    <weighted-embedded-action uid="aa59723e-a353-41b0-aafd-dea87808be54"/>
+    <weighted-embedded-action uid="949fa920-ddc4-4fb5-bc2b-cc0c49cab3bb"/>
+    <weighted-embedded-action uid="81a2a685-5580-45df-a94e-382679bd7098"/>
+    <weighted-embedded-action uid="edea2a5b-113d-4f15-9886-c1ed709adba3"/>
+</basic-logical-action-container>

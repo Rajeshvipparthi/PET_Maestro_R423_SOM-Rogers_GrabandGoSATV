@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_08_Select Offers and Products_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="1880d078-2fa6-4b8e-a511-2f9b15fe9129" weightsEnabled="false">
+    <weighted-embedded-action uid="cc163493-e93e-4f82-8086-2cfcaf3b0df3"/>
+    <weighted-embedded-action uid="f7494863-5334-494d-9db2-350250680ced"/>
+    <weighted-embedded-action uid="0958e3de-877a-4572-b894-ed8c56ac6466"/>
+    <weighted-embedded-action uid="df681146-854a-4013-9515-5881deddf26a"/>
+</basic-logical-action-container>

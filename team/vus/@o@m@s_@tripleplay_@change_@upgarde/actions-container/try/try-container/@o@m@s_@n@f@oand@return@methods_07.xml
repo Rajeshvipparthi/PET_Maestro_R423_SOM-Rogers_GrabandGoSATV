@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMS_NFOandReturnMethods_07" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c2cdff1d-47fc-456d-a41e-90131468383e" weightsEnabled="false">
+    <weighted-embedded-action uid="8b304604-7498-41c5-90da-1349b44afb61"/>
+    <weighted-embedded-action uid="3853cd02-d7ae-470b-b380-c5e214a19e71"/>
+</basic-logical-action-container>

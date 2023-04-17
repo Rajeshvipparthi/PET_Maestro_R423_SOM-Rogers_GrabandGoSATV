@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Downgrade_05_Open SearchOrderWindow"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="930aee1c-abbf-4cfa-b646-4053ae067864" weightsEnabled="false">
+    <weighted-embedded-action uid="92819dce-ff08-4565-a474-ea59999df731"/>
+    <weighted-embedded-action uid="715fa7c2-8df3-48b3-a419-f89fcc529605"/>
+</basic-logical-action-container>

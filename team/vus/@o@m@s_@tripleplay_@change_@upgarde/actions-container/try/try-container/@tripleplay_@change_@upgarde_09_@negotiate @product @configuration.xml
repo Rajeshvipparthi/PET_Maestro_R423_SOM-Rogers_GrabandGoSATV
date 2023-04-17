@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Upgarde_09_Negotiate Product Configuration"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="19b1ebf2-bb31-4bb9-addc-60402a1f360c" weightsEnabled="false">
+    <weighted-embedded-action uid="2be6addc-001f-4135-9106-eea3daa2e444"/>
+    <weighted-embedded-action uid="cce015e3-47dc-48e0-889b-4bb3b53695ee"/>
+    <weighted-embedded-action uid="09bde694-f313-442f-8104-b54c915e0834"/>
+</basic-logical-action-container>

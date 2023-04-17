@@ -1,0 +1,49 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/IE11/1478281996/iecompatviewlist.xml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-artifacts/edea2a5b-113d-4f15-9886-c1ed709adba3.zip"
+    slaProfileEnabled="false" thinkTime="8437"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="edea2a5b-113d-4f15-9886-c1ed709adba3">
+    <embedded-action>83c3c6c2-bc0f-43ee-b7c3-e41ba8308051</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/IE11/1478281996/iecompatviewlist.xml"
+    path="/IE11/1478281996/iecompatviewlist.xml" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-artifacts/edea2a5b-113d-4f15-9886-c1ed709adba3.zip"
+    recordedResponseCode="200" responseSize="230556"
+    serverUid="OMS_SOMR_SATV_Tripleplay_GrabAndGoiecvlist.microsoft.com"
+    slaProfileEnabled="false" uid="83c3c6c2-bc0f-43ee-b7c3-e41ba8308051" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fa8504d7-ff9c-4719-af81-78987c3edbf9.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fa8504d7-ff9c-4719-af81-78987c3edbf9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="iecvlist.microsoft.com"/>
+    <header name="UA-CPU" value="AMD64"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Encoding: gzip&#xd;
+Age: 12233&#xd;
+Cache-Control: max-age=21600&#xd;
+Content-MD5: VK3+Czk6HL6MXpQYzu3vqQ==&#xd;
+Content-Type: text/xml&#xd;
+Date: Thu, 02 Mar 2023 16:41:27 GMT&#xd;
+Etag: 0x8D9521E887068CE&#xd;
+Last-Modified: Wed, 28 Jul 2021 23:22:14 GMT&#xd;
+Server: ECAcc (dcb/7FD5)&#xd;
+Vary: Accept-Encoding&#xd;
+X-Cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: 009d32ec-601e-0057-7609-4d048f000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+Content-Length: 25688</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

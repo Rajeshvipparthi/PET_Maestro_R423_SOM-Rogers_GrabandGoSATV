@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_SOMR_SATV_Upgrade_ChangeCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="1a829584-42a5-4904-a9a6-62db4755529a" whenOutOfValues="CYCLE_VALUES"/>

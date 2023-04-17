@@ -1,0 +1,77 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/ie11blocklist/1401746408/versionlist.xml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-artifacts/81a2a685-5580-45df-a94e-382679bd7098.zip"
+    slaProfileEnabled="false" thinkTime="9077"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="81a2a685-5580-45df-a94e-382679bd7098">
+    <embedded-action>134f955e-3f2d-42e6-8a31-86b9f497de70</embedded-action>
+    <embedded-action>f68796f6-7678-4e09-bf8e-6454774cec9d</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ie11blocklist/1401746408/versionlist.xml"
+    path="/ie11blocklist/1401746408/versionlist.xml" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-artifacts/81a2a685-5580-45df-a94e-382679bd7098.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="OMS_SOMR_SATV_Tripleplay_GrabAndGoiecvlist.microsoft.com"
+    slaProfileEnabled="false" uid="134f955e-3f2d-42e6-8a31-86b9f497de70" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6d5a9711-3b98-42df-ba02-b1808df62056</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6d5a9711-3b98-42df-ba02-b1808df62056.txt</requestContentFileDescription>
+    <header name="Accept" value="text/xml"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="iecvlist.microsoft.com"/>
+    <header name="If-Modified-Since" value="Fri, 27 May 2022 00:05:41 GMT"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Accept-Ranges: bytes&#xd;
+Age: 1693&#xd;
+Cache-Control: max-age=3600&#xd;
+Date: Thu, 02 Mar 2023 16:41:19 GMT&#xd;
+Etag: 0x8D8BD7E4D55BBE4&#xd;
+Last-Modified: Wed, 20 Jan 2021 20:02:23 GMT&#xd;
+Server: ECAcc (dcb/7FFE)&#xd;
+X-Cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: f60f580c-301e-000b-3921-4df576000000&#xd;
+x-ms-version: 2009-09-19</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ie11blocklist/1401746408/versionlist.xml"
+    path="/ie11blocklist/1401746408/versionlist.xml" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-artifacts/81a2a685-5580-45df-a94e-382679bd7098.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="OMS_SOMR_SATV_Tripleplay_GrabAndGoiecvlist.microsoft.com"
+    slaProfileEnabled="false" uid="f68796f6-7678-4e09-bf8e-6454774cec9d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_20d0375d-e2c6-47f3-b4b9-e767a5e75ef3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_20d0375d-e2c6-47f3-b4b9-e767a5e75ef3.txt</requestContentFileDescription>
+    <header name="Accept" value="text/xml"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="Host" value="iecvlist.microsoft.com"/>
+    <header name="If-Modified-Since" value="Fri, 27 May 2022 00:05:41 GMT"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Accept-Ranges: bytes&#xd;
+Age: 1693&#xd;
+Cache-Control: max-age=3600&#xd;
+Date: Thu, 02 Mar 2023 16:41:19 GMT&#xd;
+Etag: 0x8D8BD7E4D55BBE4&#xd;
+Last-Modified: Wed, 20 Jan 2021 20:02:23 GMT&#xd;
+Server: ECAcc (dcb/7307)&#xd;
+X-Cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: 27afa51e-d01e-00cd-5021-4d884a000000&#xd;
+x-ms-version: 2009-09-19</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

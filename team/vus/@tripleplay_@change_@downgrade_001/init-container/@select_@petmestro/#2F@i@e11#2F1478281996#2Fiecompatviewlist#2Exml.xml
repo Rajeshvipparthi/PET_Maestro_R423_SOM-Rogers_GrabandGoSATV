@@ -1,0 +1,106 @@
+<http-page executeResourcesDynamically="false"
+    name="/IE11/1478281996/iecompatviewlist.xml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@tripleplay_@change_@downgrade_001/%resources%/recorded-artifacts/c083e0e5-ce7b-4d6f-a712-aca38fb21124.zip"
+    slaProfileEnabled="false" thinkTime="4603"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c083e0e5-ce7b-4d6f-a712-aca38fb21124">
+    <embedded-action>a7df2667-28b6-4315-8418-7872bc51923c</embedded-action>
+    <embedded-action>9eb5d048-6e6b-4d6a-979f-4e3bd9696a6b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml"
+    eTag="0x8D9521E887068CE" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 28 Jul 2021 23:22:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/IE11/1478281996/iecompatviewlist.xml"
+    path="/IE11/1478281996/iecompatviewlist.xml" postType="2"
+    recordedArtifactZipFileName="team/vus/@tripleplay_@change_@downgrade_001/%resources%/recorded-artifacts/c083e0e5-ce7b-4d6f-a712-aca38fb21124.zip"
+    recordedResponseCode="200" responseSize="230556"
+    serverUid="OMS_SOMR_SATV_Downgrade_Changeiecvlist.microsoft.com"
+    slaProfileEnabled="false" uid="a7df2667-28b6-4315-8418-7872bc51923c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1fb2e72d-2f90-4a94-b4d3-37b67518c3d8.0.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1fb2e72d-2f90-4a94-b4d3-37b67518c3d8.0.txt</requestContentFileDescription>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="ua-cpu" value="AMD64"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-encoding: gzip&#xd;
+age: 321&#xd;
+cache-control: max-age=21600&#xd;
+content-md5: VK3+Czk6HL6MXpQYzu3vqQ==&#xd;
+content-type: text/xml&#xd;
+date: Wed, 13 Jul 2022 07:22:46 GMT&#xd;
+etag: 0x8D9521E887068CE&#xd;
+last-modified: Wed, 28 Jul 2021 23:22:14 GMT&#xd;
+server: ECAcc (dcb/7FD5)&#xd;
+vary: Accept-Encoding&#xd;
+x-cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: 9cd784b3-501e-0076-7288-9669be000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+content-length: 25688</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/x-ica; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Fri, 24 Feb 2023 13:11:09 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Citrix/IntNPE_XA65Web/Resources/LaunchIca/RGVmYXVsdEFnZ3JlZ2F0aW9uR3JvdXAuXFBFVFxQRVRfTWFlc3Ryb19FbmdsaXNoLVNpbmdsZV83LTE1.ica"
+    path="/Citrix/IntNPE_XA65Web/Resources/LaunchIca/RGVmYXVsdEFnZ3JlZ2F0aW9uR3JvdXAuXFBFVFxQRVRfTWFlc3Ryb19FbmdsaXNoLVNpbmdsZV83LTE1.ica"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@tripleplay_@change_@downgrade_001/%resources%/recorded-artifacts/c083e0e5-ce7b-4d6f-a712-aca38fb21124.zip"
+    recordedResponseCode="200" responseSize="1705"
+    serverUid="OMS_SOMR_SATV_Downgrade_Changeintnpestflogin.rci.rogers.com"
+    slaProfileEnabled="false" uid="9eb5d048-6e6b-4d6a-979f-4e3bd9696a6b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dc1f30de-a005-4207-bf46-11640b1ee155.0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dc1f30de-a005-4207-bf46-11640b1ee155.0.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
+        extractFromVarNameAdv="" extractFromVarNameSimple=""
+        extractType="0" extractTypeAdv="0" extractTypeSimple="0"
+        matchNumber="1" matchNumberAdv="1" matchNumberSimple="1"
+        name="IcaContent" regExp="(?s)(.*)" regExpAdv="(?s)(.*)"
+        setDefaultValue="true" startsWithSimple="" template="$1$"
+        templateAdv="$1$" uid="01841396-d6af-44e0-9444-dbcdf3233b93" xpath=""/>
+    <parameter encodeName="true" encodeValue="true" name="CsrfToken"
+        recordRawValue="4A8914A43DC3C688B3D3A99530232373" separator="="
+        value="${CsrfToken}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="IsUsingHttps"
+        recordRawValue="Yes" separator="=" value="Yes" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="launchId"
+        recordRawValue="1657696967017" separator="="
+        value="${OMS_SOMR_SATV_Downgrade_ChangeCitrixTimestamp}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html, application/xhtml+xml, image/jxr, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="CtxsDeviceId=WR_4r51PWLpm__i; CsrfToken=${CsrfToken}; CtxsPluginAssistantState=Done; CtxsAuthId=725AAF1F757E31210EFCE24E48C5C009; CtxsPasswordChangeAllowed=true; ASP.NET_SessionId=slkcacv1q31bowcrgt12x3ah"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="intnpestflogin.rci.rogers.com"/>
+    <header name="Referer" value="https://intnpestflogin.rci.rogers.com/Citrix/IntNPE_XA65Web/"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private, max-age=0, s-maxage=0&#xd;
+Content-Type: application/x-ica; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: Wed, 13 Jul 2022 07:22:47 GMT&#xd;
+Last-Modified: Wed, 13 Jul 2022 07:22:47 GMT&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+SF-ServerName: VMDMDCWSF01&#xd;
+X-Citrix-Application: Receiver for Web&#xd;
+Date: Wed, 13 Jul 2022 07:22:48 GMT&#xd;
+Content-Length: 806</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,19 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMSOrderCorformation" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="cc4cba15-3e16-4bec-a095-fc4b24267b55" weightsEnabled="false">
+    <weighted-embedded-action uid="6181e39e-27de-4001-bbcc-31799b576367"/>
+    <weighted-embedded-action uid="ff22110c-7c0a-4c95-9f0f-3b33b3adc051"/>
+    <weighted-embedded-action uid="e179e880-2fc1-4f1b-b9d8-943473a6ed03"/>
+    <weighted-embedded-action uid="92a94bf0-efae-4af9-828b-bc12af2bfb20"/>
+    <weighted-embedded-action uid="4c732870-3b6a-422a-b222-0ef6e328282d"/>
+    <weighted-embedded-action uid="78616f6b-1ae2-43d8-8407-deaeb0a7c171"/>
+    <weighted-embedded-action uid="d5f032ae-83dd-46a4-ac05-a817077c5c01"/>
+    <weighted-embedded-action uid="6ec91be2-7a9e-497d-a161-850f24a7abb0"/>
+    <weighted-embedded-action uid="dd1f405e-c16e-4b4b-b243-0f5c1544c8e0"/>
+    <weighted-embedded-action uid="b7752bcc-e694-48fd-97fb-8a925c7884e8"/>
+    <weighted-embedded-action uid="0d0eb53d-0ae8-42ad-bf2d-15af742f7216"/>
+    <weighted-embedded-action uid="a918ba5f-fe0f-4e03-86c5-57fd14bb7cba"/>
+    <weighted-embedded-action uid="f18f6f60-d0a5-4fdf-b77f-e3f1be238baf"/>
+    <weighted-embedded-action uid="4495bac6-2aeb-43ca-975d-585cbab723ea"/>
+</basic-logical-action-container>

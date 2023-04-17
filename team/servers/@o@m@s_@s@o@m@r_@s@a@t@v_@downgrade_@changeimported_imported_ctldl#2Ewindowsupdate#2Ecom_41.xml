@@ -1,0 +1,5 @@
+<http-server hostname="ctldl.windowsupdate.com" port="80" ssl="false"
+    uid="OMS_SOMR_SATV_Downgrade_Changeimported_imported_ctldl.windowsupdate.com_41"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

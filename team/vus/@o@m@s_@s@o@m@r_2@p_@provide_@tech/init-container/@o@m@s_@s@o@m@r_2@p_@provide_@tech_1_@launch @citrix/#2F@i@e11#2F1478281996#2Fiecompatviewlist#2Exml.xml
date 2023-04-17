@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    name="/IE11/1478281996/iecompatviewlist.xml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/9c4f98f2-df8d-42b7-ba35-9ec82acc0b16.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9c4f98f2-df8d-42b7-ba35-9ec82acc0b16">
+    <embedded-action>8e941662-0137-4c9e-9f82-e80b845f3205</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml"
+    eTag="0x8D9521E887068CE" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 28 Jul 2021 23:22:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/IE11/1478281996/iecompatviewlist.xml"
+    path="/IE11/1478281996/iecompatviewlist.xml" postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@s@o@m@r_2@p_@provide_@tech/%resources%/recorded-artifacts/9c4f98f2-df8d-42b7-ba35-9ec82acc0b16.zip"
+    recordedResponseCode="200" responseSize="230556"
+    serverUid="imported_iecvlist.microsoft.com_22"
+    slaProfileEnabled="false" uid="8e941662-0137-4c9e-9f82-e80b845f3205" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_75e15371-3e85-4f10-8432-c6a34029a088.0.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_75e15371-3e85-4f10-8432-c6a34029a088.0.txt</requestContentFileDescription>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; SUID=M; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="ua-cpu" value="AMD64"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-encoding: gzip&#xd;
+age: 17018&#xd;
+cache-control: max-age=21600&#xd;
+content-md5: VK3+Czk6HL6MXpQYzu3vqQ==&#xd;
+content-type: text/xml&#xd;
+date: Thu, 23 Jun 2022 17:59:24 GMT&#xd;
+etag: 0x8D9521E887068CE&#xd;
+last-modified: Wed, 28 Jul 2021 23:22:14 GMT&#xd;
+server: ECAcc (dcb/7FD5)&#xd;
+vary: Accept-Encoding&#xd;
+x-cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: c8f76ca5-801e-0056-4303-870572000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+content-length: 25688</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

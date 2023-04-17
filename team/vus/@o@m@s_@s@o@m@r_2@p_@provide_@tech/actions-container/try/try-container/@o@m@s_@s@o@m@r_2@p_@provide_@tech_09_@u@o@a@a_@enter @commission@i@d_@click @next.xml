@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Tech_09_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="e94e40b1-5bf5-4361-b9a1-7aebd1d18d7c" weightsEnabled="false">
+    <weighted-embedded-action uid="c9d13130-4b39-4ae9-b040-071854dba2a1"/>
+    <weighted-embedded-action uid="804099f4-e6af-41f6-91e7-b783f9548dfb"/>
+</basic-logical-action-container>

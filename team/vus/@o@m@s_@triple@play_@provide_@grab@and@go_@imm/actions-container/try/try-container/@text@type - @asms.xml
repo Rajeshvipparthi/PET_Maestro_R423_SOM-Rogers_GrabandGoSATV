@@ -1,0 +1,13 @@
+<custom-action actionType="CitrixTextType" isHit="false"
+    name="TextType - Asms" uid="edf907f4-166a-4596-8618-0e664cf15d65">
+    <description>This Action sends a text with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- text (required): Alphanumeric text to send on the keyboard.&#xd;
+- typingRateInMs (optional): Delay in milliseconds between each key typed. "0" means no delay. Default value is "150".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="text" type="TEXT" value="${OMS_SOMR_SATV_GrabAndGo_CRM_Logins.CRMLogin}"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_fad5e196-5a84-4de0-803b-53446d7a0dc8</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@triple@play_@provide_@grab@and@go_@imm/%resources%/recorded-screenshots/sc_fad5e196-5a84-4de0-803b-53446d7a0dc8.1.png</screenshotFileDescription>
+</custom-action>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_2P_Provide_Imm_08_Select Offers and Products_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ed7e35db-6fd8-46b8-933d-7348ba85bb86" weightsEnabled="false">
+    <weighted-embedded-action uid="63099c6d-069f-4f64-93da-4d7f89d13638"/>
+    <weighted-embedded-action uid="af46afce-383c-4398-b043-f1cd06d9d619"/>
+    <weighted-embedded-action uid="6b0807fa-147a-4837-9494-677fdd7e7206"/>
+</basic-logical-action-container>

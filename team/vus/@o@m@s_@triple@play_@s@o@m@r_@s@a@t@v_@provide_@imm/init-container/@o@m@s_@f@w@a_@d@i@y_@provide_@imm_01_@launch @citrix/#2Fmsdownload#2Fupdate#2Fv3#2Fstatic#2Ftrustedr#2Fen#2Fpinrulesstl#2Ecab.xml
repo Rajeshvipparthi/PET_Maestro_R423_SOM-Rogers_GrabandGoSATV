@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    name="/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@s@o@m@r_@s@a@t@v_@provide_@imm/%resources%/recorded-artifacts/6b79c085-6b16-448b-a40a-2d2c5be08c6f.zip"
+    slaProfileEnabled="false" thinkTime="3473"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6b79c085-6b16-448b-a40a-2d2c5be08c6f">
+    <embedded-action>939695ca-df8f-4295-b41f-0fa7246b5459</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/vnd.ms-cab-compressed"
+    eTag="&quot;80424021c7dbd21:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 02 Jun 2017 17:39:05 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab"
+    path="/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@triple@play_@s@o@m@r_@s@a@t@v_@provide_@imm/%resources%/recorded-artifacts/6b79c085-6b16-448b-a40a-2d2c5be08c6f.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="imported_ctldl.windowsupdate.com_4"
+    slaProfileEnabled="false" uid="939695ca-df8f-4295-b41f-0fa7246b5459" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_939695ca-df8f-4295-b41f-0fa7246b5459</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_939695ca-df8f-4295-b41f-0fa7246b5459.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="a56fd71159c27b4f" recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Host" value="ctldl.windowsupdate.com"/>
+    <header name="If-Modified-Since" value="Fri, 02 Jun 2017 17:39:05 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: public,max-age=172800&#xd;
+Content-Type: application/vnd.ms-cab-compressed&#xd;
+Last-Modified: Fri, 02 Jun 2017 17:39:05 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "80424021c7dbd21:0"&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-Powered-By: ASP.NET&#xd;
+Content-Length: 7796&#xd;
+Date: Thu, 23 Jun 2022 17:59:51 GMT&#xd;
+Connection: keep-alive&#xd;
+X-CCC: CA&#xd;
+X-CID: 2</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

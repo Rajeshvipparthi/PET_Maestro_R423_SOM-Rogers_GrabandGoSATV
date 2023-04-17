@@ -1,0 +1,12 @@
+<custom-action actionType="CitrixKeyType" isHit="false"
+    name="KeyType - ENTER_10" uid="a9688461-3f0c-4b36-8970-2c35e4b41425">
+    <description>This Action sends a key with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- keyCode (required): KeyCode from the following: [LEFT_ARROW, UP_ARROW, RIGHT_ARROW, DOWN_ARROW, ADD, MULTIPLY, SUBSTRACT, DIVIDE, ALT, BACKSPACE, SPACE, CAPSLOCK, CTRL, DEL, END, ENTER, ESC, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, HOME, INS, NUMLOCK, PAGE_DOWN, PAGE_UP, PRINTSCREEN, SCROLL, SHIFT, TAB, NUMPAD_0, NUMPAD_1, NUMPAD_2, NUMPAD_3, NUMPAD_4, NUMPAD_5, NUMPAD_6, NUMPAD_7, NUMPAD_8, NUMPAD_9, WINDOW_LEFT, WINDOW_RIGHT].&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="keyCode" type="TEXT" value="ENTER"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_c134a092-9237-4730-9d3d-fc9589ea316e</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@tripleplay_@change_@upgarde/%resources%/recorded-screenshots/sc_d824511d-619c-4cea-ba1b-ab05e0a6b204.png</screenshotFileDescription>
+</custom-action>

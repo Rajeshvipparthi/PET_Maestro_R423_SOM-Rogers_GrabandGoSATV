@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_09_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="fd2848f7-8b76-4092-b971-2ce9d6268b11" weightsEnabled="false">
+    <weighted-embedded-action uid="b7ef0d76-27ec-4b4e-9650-b7f1d0b6683d"/>
+    <weighted-embedded-action uid="f4a8c8ab-8ad4-4230-94b6-f4e72c360937"/>
+    <weighted-embedded-action uid="f00bc2a4-c012-43ff-a926-9c32934f158a"/>
+    <weighted-embedded-action uid="b8d26a57-3bab-43f3-851f-f7b5975dbce4"/>
+</basic-logical-action-container>

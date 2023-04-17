@@ -1,0 +1,37 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="OMS_SOMR_2P_Provide_Tech">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+        <weighted-embedded-action uid="b14edfe2-9547-4960-9098-071bc264ac16"/>
+        <weighted-embedded-action uid="474fcae6-c904-422a-9ca4-637bea0d0094"/>
+        <weighted-embedded-action uid="f72b5d66-1277-4ef6-a605-b9c4c82a7ba4"/>
+        <weighted-embedded-action uid="19e73865-e942-4994-a667-bdb1db38e898"/>
+        <weighted-embedded-action uid="004e23c5-188c-4bd9-90fa-b244c9e4c31c"/>
+        <weighted-embedded-action uid="e03dfad0-769b-4a22-8664-50291d94b179"/>
+        <weighted-embedded-action uid="7f3acfa1-6bb0-4f2b-b867-f58cc845ec57"/>
+        <weighted-embedded-action uid="2fe49a76-c2fa-4446-b914-d8e621f3073a"/>
+        <weighted-embedded-action uid="a814c84d-999f-4a78-b5ce-7a263b14d3f0"/>
+        <weighted-embedded-action uid="51e30bc0-5dc1-452d-9190-5ef0f4e1fffd"/>
+        <weighted-embedded-action uid="b83a26f3-86ce-4957-a1c0-c4297cf2b945"/>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="4e19cd28-ba1f-4a6c-abc2-f8d970af8910"/>
+        <weighted-embedded-action uid="e16c641e-01d6-4247-a416-ada55fbda946"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+        <weighted-embedded-action uid="b0b722d6-d75e-4021-bb50-97eea64ce681"/>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>

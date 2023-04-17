@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_SOMR_SATV_3p_tech_Product_conformation" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="a83c4c6a-7604-4689-aae0-a8ff154d6453" weightsEnabled="false">
+    <weighted-embedded-action uid="47c51b0e-b77a-477d-af03-4dbc98c1191a"/>
+    <weighted-embedded-action uid="90499657-da7f-4b61-b4ca-8cae6eb5d923"/>
+    <weighted-embedded-action uid="92f95693-c86b-478b-8a8a-d90cd6466049"/>
+</basic-logical-action-container>
